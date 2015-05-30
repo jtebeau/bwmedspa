@@ -1,0 +1,3992 @@
+# Copyright (c) Phoenix Team, {2014}
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenia 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2014-09-08 00:34:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-10-28 19:35+0100\n"
+"Last-Translator: Ernesto Barbero <ernesto@soluciones-internet.es>\n"
+"Language-Team: Phoenix Team <phoenix.team.themes@gmail.com>\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: es\n"
+"X-Poedit-Bookmarks: -1,112,-1,-1,26,27,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Error"
+msgstr "Error"
+
+#: 404.php:34
+msgid "Oops, 404 Error!"
+msgstr "Oops, Error 404!"
+
+#: 404.php:35
+msgid "The page you were looking for could not be found."
+msgstr "La página que estás buscando no se pudo encontrar."
+
+#: archive.php:18
+msgid "Archives"
+msgstr "archivo"
+
+#: archive.php:77 author.php:91 category.php:77 index.php:124 search.php:78
+#: single-attachment.php:127 single-xenia_portfolio.php:308 single.php:156
+#: tag.php:77 tpl-portfolio-single-half.php:327
+#: tpl-portfolio-single-wide.php:327 tpl-single-full.php:168
+#: tpl-single-sidebar.php:167
+msgid "Sorry, nothing to display."
+msgstr "Lo sentimos, no hay nada que se vea."
+
+#: author.php:18 single-xenia_portfolio.php:93 single-xenia_portfolio.php:95
+#: tpl-portfolio-single-half.php:113 tpl-portfolio-single-half.php:115
+#: tpl-portfolio-single-wide.php:113 tpl-portfolio-single-wide.php:115
+msgid "Author"
+msgstr "Autor"
+
+#: author.php:60 single.php:108 tpl-single-full.php:120
+#: tpl-single-sidebar.php:120
+msgid "About author:"
+msgstr "Sobre el autor"
+
+#: category.php:18 single-xenia_portfolio.php:83
+#: tpl-portfolio-single-half.php:103 tpl-portfolio-single-wide.php:103
+msgid "Category"
+msgstr "Categoría"
+
+#: comments.php:8
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"Publicar está protegido por contraseña. Introduzca la contraseña para ver "
+"los comentarios.\t"
+
+#: comments.php:23
+msgid "Send Comment"
+msgstr "Enviar comentario"
+
+#: comments.php:31
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Usted debe ser conectado a tu <a </a> para publicar un comentario href=\"%s"
+"\">."
+
+#: comments.php:37
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Conectado como <a href=\"%1$s\">% 2 $ s </a>. <a href=\"%3$s\" title=\"Log "
+"de ​​este account\"> Salir? </a>"
+
+#: comments.php:52 core/widgets/widget-contact-form.php:38
+#: single-xenia_portfolio.php:71 tpl-portfolio-single-half.php:91
+#: tpl-portfolio-single-wide.php:91
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:57 core/widgets/widget-contact-form.php:41
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:62
+msgid "Web Site"
+msgstr "sitio web"
+
+#: comments.php:68
+msgid "on"
+msgstr "sobre"
+
+#: comments.php:76 comments.php:81
+msgid "Comments are closed here."
+msgstr "Los comentarios están cerrados aquí."
+
+#: core/core.php:213
+msgid "Main Navigation Menu"
+msgstr "Menú navegación principal"
+
+#: core/core.php:214
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: core/core.php:259 core/helpers/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: core/core.php:260 core/helpers/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: core/core.php:261 core/helpers/class-tgm-plugin-activation.php:198
+msgid "Installing Plugin: %s"
+msgstr "Instalar Plugin:% s"
+
+#: core/core.php:262
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API de plugins."
+
+#: core/core.php:263 core/helpers/class-tgm-plugin-activation.php:200
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere de los siguientes plugins:"
+msgstr[1] ""
+
+#: core/core.php:264 core/helpers/class-tgm-plugin-activation.php:201
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin:"
+msgstr[1] ""
+
+#: core/core.php:265 core/helpers/class-tgm-plugin-activation.php:202
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para instalar el %s "
+"plugin de... Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin instalado."
+msgstr[1] ""
+
+#: core/core.php:266 core/helpers/class-tgm-plugin-activation.php:203
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido es actualmente inactivo:%1$s."
+msgstr[1] ""
+
+#: core/core.php:267 core/helpers/class-tgm-plugin-activation.php:204
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendada es actualmente inactivo:%1$s"
+msgstr[1] ""
+
+#: core/core.php:268 core/helpers/class-tgm-plugin-activation.php:205
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para activar el %s "
+"plugin de... Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin activado."
+msgstr[1] ""
+
+#: core/core.php:269 core/helpers/class-tgm-plugin-activation.php:206
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+
+#: core/core.php:270 core/helpers/class-tgm-plugin-activation.php:207
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para actualizar el "
+"%s plugin des... Póngase en contacto con el administrador de este sitio en "
+"busca de ayuda en conseguir el plugin actualizado."
+msgstr[1] ""
+
+#: core/core.php:271 core/helpers/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comienza la instalación del plugin"
+msgstr[1] ""
+
+#: core/core.php:272 core/helpers/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comience activar el plugin"
+msgstr[1] ""
+
+#: core/core.php:273 core/helpers/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Regreso a Obligatorio Plugins Instalador"
+
+#: core/core.php:274 core/helpers/class-tgm-plugin-activation.php:212
+#: core/helpers/class-tgm-plugin-activation.php:1958
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: core/core.php:275
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. % s"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio"
+msgstr "cartera"
+
+#: core/custom_posts/portfolio.php:22
+msgid "Portfolio Item"
+msgstr "Cartera de artículo"
+
+#: core/custom_posts/portfolio.php:24 core/custom_posts/services.php:23
+#: core/custom_posts/team.php:23 core/custom_posts/testimonials.php:23
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: core/custom_posts/portfolio.php:25
+msgid "Add New Portfolio Item"
+msgstr "Añadir nueva cartera de artículo"
+
+#: core/custom_posts/portfolio.php:26 core/custom_posts/services.php:25
+#: core/custom_posts/team.php:25 core/custom_posts/testimonials.php:25
+#: core/helpers/utils.php:188
+msgid "Edit"
+msgstr "Editar"
+
+#: core/custom_posts/portfolio.php:27
+msgid "Edit Portfolio Item"
+msgstr "Editar Portafolio artículo"
+
+#: core/custom_posts/portfolio.php:28
+msgid "New Portfolio Item"
+msgstr "Nueva cartera de artículo"
+
+#: core/custom_posts/portfolio.php:29
+msgid "View Portfolio"
+msgstr "Ver galería"
+
+#: core/custom_posts/portfolio.php:30
+msgid "View Portfolio Item"
+msgstr "Ver galería de artículos"
+
+#: core/custom_posts/portfolio.php:31
+msgid "Search Portfolio Items"
+msgstr "Buscar Cartera Artículos"
+
+#: core/custom_posts/portfolio.php:32
+msgid "No Portfolio Items found"
+msgstr "No hay artículos de parque que se encuentran"
+
+#: core/custom_posts/portfolio.php:33
+msgid "No Portfolio Items found in Trash"
+msgstr "No hay artículos de parque que se encuentran en la basura"
+
+#: core/custom_posts/portfolio.php:75
+msgid "Search Categories"
+msgstr "Búsqueda Categorías"
+
+#: core/custom_posts/portfolio.php:76
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: core/custom_posts/portfolio.php:77
+msgid "Parent Category"
+msgstr "TODAS Las Categorías"
+
+#: core/custom_posts/portfolio.php:78
+msgid "Parent Category:"
+msgstr "Categoría Superior"
+
+#: core/custom_posts/portfolio.php:79
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: core/custom_posts/portfolio.php:80
+msgid "Update Category"
+msgstr "actualización Categoría"
+
+#: core/custom_posts/portfolio.php:81
+msgid "Add New Category"
+msgstr "Añadir Nueva Categoría"
+
+#: core/custom_posts/portfolio.php:82
+msgid "New Category Name"
+msgstr "Nueva Categoría Nombre"
+
+#: core/custom_posts/portfolio.php:83
+msgid "Categories"
+msgstr "Categorías"
+
+#: core/custom_posts/services.php:20 core/custom_posts/services.php:22
+msgid "Services"
+msgstr "servicios"
+
+#: core/custom_posts/services.php:21 core/shortcodes/shortcodes-mapper.php:594
+msgid "Service"
+msgstr "Servicio"
+
+#: core/custom_posts/services.php:24
+msgid "Add New Service Item"
+msgstr "Agregar nuevo servicio de artículos"
+
+#: core/custom_posts/services.php:26
+msgid "Edit Service Item"
+msgstr "Editar Servicio de artículos"
+
+#: core/custom_posts/services.php:27
+msgid "New Service Item"
+msgstr "Nuevo Servicio de artículos"
+
+#: core/custom_posts/services.php:28
+msgid "View"
+msgstr "vista"
+
+#: core/custom_posts/services.php:29
+msgid "View Service Item"
+msgstr "Ver Servicio de artículos"
+
+#: core/custom_posts/services.php:30
+msgid "Search Service Items"
+msgstr "Elementos del servicio de búsqueda"
+
+#: core/custom_posts/services.php:31
+msgid "No Service Items found"
+msgstr "Ningún elemento de servicio que se encuentran"
+
+#: core/custom_posts/services.php:32
+msgid "No Service Item found in Trash"
+msgstr "Ningún elemento de servicio que se encuentra en la basura"
+
+#: core/custom_posts/team.php:20
+msgid "Team Members"
+msgstr "Miembros del Equipo"
+
+#: core/custom_posts/team.php:21 core/shortcodes/shortcodes-mapper.php:658
+msgid "Team Member"
+msgstr "miembro del Equipo"
+
+#: core/custom_posts/team.php:22
+msgid "Team"
+msgstr "equipo"
+
+#: core/custom_posts/team.php:24
+msgid "Add New Team Member"
+msgstr "Añadir Nuevo Miembro del Equipo"
+
+#: core/custom_posts/team.php:26
+msgid "Edit Team Member"
+msgstr "Editar Miembro del Equipo"
+
+#: core/custom_posts/team.php:27
+msgid "New Team Member"
+msgstr "Nuevo miembro del equipo"
+
+#: core/custom_posts/team.php:28
+msgid "View "
+msgstr "vista"
+
+#: core/custom_posts/team.php:29
+msgid "View Team Member"
+msgstr "Ver Miembro del Equipo"
+
+#: core/custom_posts/team.php:30
+msgid "Search Team Members"
+msgstr "Miembros Buscar Equipos"
+
+#: core/custom_posts/team.php:31
+msgid "No Team Members found"
+msgstr "No hay miembros del equipo encontraron"
+
+#: core/custom_posts/team.php:32
+msgid "No Team Members found in Trash"
+msgstr "No hay miembros del equipo que se encuentran en la basura"
+
+#: core/custom_posts/testimonials.php:20 core/custom_posts/testimonials.php:22
+#: core/shortcodes/shortcodes-mapper.php:763
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: core/custom_posts/testimonials.php:21
+msgid "Testimonial"
+msgstr "testimonial"
+
+#: core/custom_posts/testimonials.php:24
+msgid "Add New Testimonial"
+msgstr "Añadir Nuevo Testimonio"
+
+#: core/custom_posts/testimonials.php:26
+msgid "Edit Testimonial"
+msgstr "Editar Testimonial"
+
+#: core/custom_posts/testimonials.php:27
+msgid "New Testimonial"
+msgstr "New Testimonial"
+
+#: core/custom_posts/testimonials.php:28
+msgid "View Testimonials"
+msgstr "Ver Testimonios"
+
+#: core/custom_posts/testimonials.php:29
+msgid "View Testimonial"
+msgstr "Ver Testimonio"
+
+#: core/custom_posts/testimonials.php:30
+msgid "Search Testimonials"
+msgstr "Testimonios de la búsqueda"
+
+#: core/custom_posts/testimonials.php:31
+msgid "No Testimonials found"
+msgstr "No se encontraron Testimonios"
+
+#: core/custom_posts/testimonials.php:32
+msgid "No Testimonials found in Trash"
+msgstr "No se han encontrado en la basura Testimonios"
+
+#: core/enqueues/scripts.php:95 core/shortcodes/shortcodes-class.php:644
+#: single-xenia_portfolio.php:232 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:252
+#: tpl-portfolio-single-wide.php:252
+msgid "Error! Please refresh the page!"
+msgstr "¡Error! Por favor, actualice la página!"
+
+#: core/enqueues/scripts.php:96 core/shortcodes/shortcodes-class.php:644
+#: single-xenia_portfolio.php:232 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:252
+#: tpl-portfolio-single-wide.php:252
+msgid "Loading..."
+msgstr "Cargando ..."
+
+#: core/enqueues/scripts.php:97 core/shortcodes/shortcodes-class.php:644
+#: single-xenia_portfolio.php:232 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:252
+#: tpl-portfolio-single-wide.php:252
+msgid "No More Works"
+msgstr "No hay más obras"
+
+#: core/helpers/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: core/helpers/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Regreso al salpicadero"
+
+#: core/helpers/class-tgm-plugin-activation.php:213
+#: core/helpers/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin se activó con éxito:"
+
+#: core/helpers/class-tgm-plugin-activation.php:214
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados con éxito. % 1 $ s"
+
+#: core/helpers/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: core/helpers/class-tgm-plugin-activation.php:548
+#: core/helpers/class-tgm-plugin-activation.php:2175
+msgid "Return to the Dashboard"
+msgstr "Vuelva al cuadro de instrumentos"
+
+#: core/helpers/class-tgm-plugin-activation.php:1178
+msgid "Private Repository"
+msgstr "depósito privado"
+
+#: core/helpers/class-tgm-plugin-activation.php:1181
+msgid "Pre-Packaged"
+msgstr "Preenvasados"
+
+#: core/helpers/class-tgm-plugin-activation.php:1186
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: core/helpers/class-tgm-plugin-activation.php:1189
+msgid "Required"
+msgstr "necesario"
+
+#: core/helpers/class-tgm-plugin-activation.php:1189
+msgid "Recommended"
+msgstr "recomendado"
+
+#: core/helpers/class-tgm-plugin-activation.php:1192
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: core/helpers/class-tgm-plugin-activation.php:1194
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: core/helpers/class-tgm-plugin-activation.php:1296
+#: core/helpers/class-tgm-plugin-activation.php:1404
+msgid "Install"
+msgstr "instalar"
+
+#: core/helpers/class-tgm-plugin-activation.php:1318
+#: core/helpers/class-tgm-plugin-activation.php:1405
+msgid "Activate"
+msgstr "activar"
+
+#: core/helpers/class-tgm-plugin-activation.php:1367
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Return al "
+"Dashboard\"> Volver al </a> Dashboard"
+
+#: core/helpers/class-tgm-plugin-activation.php:1383
+msgid "Plugin"
+msgstr "Plugin"
+
+#: core/helpers/class-tgm-plugin-activation.php:1384
+msgid "Source"
+msgstr "fuente"
+
+#: core/helpers/class-tgm-plugin-activation.php:1385
+#: core/shortcodes/shortcodes-mapper.php:192
+msgid "Type"
+msgstr "Source"
+
+#: core/helpers/class-tgm-plugin-activation.php:1386
+msgid "Status"
+msgstr "Estado"
+
+#: core/helpers/class-tgm-plugin-activation.php:1514
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins están disponibles para ser instalado en este momento."
+
+#: core/helpers/class-tgm-plugin-activation.php:1622
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins están disponibles para ser activados en este momento."
+
+#: core/helpers/class-tgm-plugin-activation.php:1941
+msgid "Install package not available."
+msgstr "Instale el paquete no está disponible."
+
+#: core/helpers/class-tgm-plugin-activation.php:1942
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "La descarga de paquete de instalación de ...."
+
+#: core/helpers/class-tgm-plugin-activation.php:1943
+msgid "Unpacking the package&#8230;"
+msgstr "Desembalaje del paquete ..."
+
+#: core/helpers/class-tgm-plugin-activation.php:1944
+msgid "Installing the plugin&#8230;"
+msgstr "Instalación del plug-in ..."
+
+#: core/helpers/class-tgm-plugin-activation.php:1945
+msgid "Plugin install failed."
+msgstr "Plugin Ha fallado la instalación."
+
+#: core/helpers/class-tgm-plugin-activation.php:1946
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: core/helpers/class-tgm-plugin-activation.php:1957
+msgid "Plugin activation failed."
+msgstr "Plugin de activación falló."
+
+#: core/helpers/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar algún tiempo en algunos ejércitos, así que por favor sea paciente."
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+msgid "%1$s installed and activated successfully."
+msgstr "% 1 $ s instalados y activados con éxito."
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: core/helpers/class-tgm-plugin-activation.php:2073
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: core/helpers/class-tgm-plugin-activation.php:2074
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y activación Plugin% 1 $ s (% 2 $ d /% 3 $ d)"
+
+#: core/helpers/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está iniciando. Este proceso puede tardar algún "
+"tiempo en algunos ejércitos, así que por favor sea paciente."
+
+#: core/helpers/class-tgm-plugin-activation.php:2079
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se produjo un error durante la instalación"
+
+#: core/helpers/class-tgm-plugin-activation.php:2080
+msgid "The installation of %1$s failed."
+msgstr "La instalación de% 1 $ s ha fallado."
+
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "%1$s installed successfully."
+msgstr "% 1 $ s instalado correctamente."
+
+#: core/helpers/class-tgm-plugin-activation.php:2082
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: core/helpers/class-tgm-plugin-activation.php:2083
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar Plugin"
+
+#: core/helpers/internals.php:83
+msgid "Search..."
+msgstr "Buscar ..."
+
+#: core/helpers/internals.php:136
+msgid "Subtitle"
+msgstr "subtítulo"
+
+#: core/helpers/internals.php:160
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: core/helpers/internals.php:191 core/shortcodes/shortcodes-mapper.php:53
+msgid "None"
+msgstr "ninguno"
+
+#: core/helpers/internals.php:283 core/metaboxes/settings/testimonials.php:6
+msgid "Details"
+msgstr "Detalles"
+
+#: core/helpers/internals.php:297
+msgid "This message was sent via contact form from"
+msgstr "Este mensaje fue enviado a través del formulario de contacto de"
+
+#: core/helpers/internals.php:351 core/helpers/internals.php:399
+#: core/shortcodes/shortcodes-class.php:157
+#: core/shortcodes/shortcodes-class.php:690 format-audio.php:50
+#: format-gallery.php:60 format-image.php:30 format-link.php:50
+#: format-quote.php:43 format-standard.php:30 format-video.php:40
+#: single-attachment.php:74 single-xenia_portfolio.php:273
+#: template-portfolio.php:142 tpl-portfolio-2cols.php:155
+#: tpl-portfolio-3cols.php:155 tpl-portfolio-4cols.php:155
+#: tpl-portfolio-full.php:155 tpl-portfolio-single-half.php:293
+#: tpl-portfolio-single-wide.php:293
+msgid "by"
+msgstr "por"
+
+#: core/helpers/internals.php:401
+msgid "View Project"
+msgstr "View Project"
+
+#: core/helpers/internals.php:420 core/helpers/internals.php:421
+msgid "Support"
+msgstr "Support"
+
+#: core/helpers/utils.php:49
+msgid "You are here"
+msgstr "Usted está aquí"
+
+#: core/helpers/utils.php:50
+msgid " Home"
+msgstr "Inicio"
+
+#. Template Name of the plugin/theme
+msgid "Home"
+msgstr "Inicio"
+
+#: core/helpers/utils.php:61
+msgid "Home Page"
+msgstr "Pagina de Inicio"
+
+#: core/helpers/utils.php:79
+msgid "Search for: "
+msgstr "Buscar:"
+
+#: core/helpers/utils.php:158
+msgid "404 page"
+msgstr "página 404"
+
+#: core/helpers/utils.php:163
+msgid "Page "
+msgstr "página"
+
+#: core/helpers/utils.php:192
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: core/helpers/utils.php:240 single-xenia_portfolio.php:138
+#: single-xenia_portfolio.php:180 single.php:86 single.php:118
+#: tpl-portfolio-single-half.php:158 tpl-portfolio-single-half.php:200
+#: tpl-portfolio-single-wide.php:158 tpl-portfolio-single-wide.php:200
+#: tpl-single-full.php:98 tpl-single-full.php:130 tpl-single-sidebar.php:98
+#: tpl-single-sidebar.php:130
+msgid "Prev"
+msgstr "Anterior"
+
+#: core/helpers/utils.php:241 single-xenia_portfolio.php:142
+#: single-xenia_portfolio.php:184 single.php:85 single.php:125
+#: tpl-portfolio-single-half.php:162 tpl-portfolio-single-half.php:204
+#: tpl-portfolio-single-wide.php:162 tpl-portfolio-single-wide.php:204
+#: tpl-single-full.php:97 tpl-single-full.php:137 tpl-single-sidebar.php:97
+#: tpl-single-sidebar.php:137
+msgid "Next"
+msgstr "Anterior"
+
+#: core/metaboxes/core/inc/field.php:221
+msgid "+"
+msgstr "+"
+
+#: core/metaboxes/core/inc/field.php:231
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: core/metaboxes/core/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+"Por favor, corrija los errores destacan a continuación y vuelva a intentarlo."
+
+#: core/metaboxes/settings/_example.php:8
+msgid "Standard Fields"
+msgstr "Los campos estándar"
+
+#: core/metaboxes/settings/_example.php:28
+#: core/metaboxes/settings/portfolio.php:67
+msgid "Author:"
+msgstr "Autor:"
+
+#: core/metaboxes/settings/_example.php:35
+#: core/metaboxes/settings/portfolio.php:70
+#: core/metaboxes/settings/testimonials.php:18
+msgid "John Doe"
+msgstr "John Doe"
+
+#: core/metaboxes/settings/_example.php:42
+msgid "Checkbox"
+msgstr "caja"
+
+#: core/metaboxes/settings/_example.php:51
+msgid "Radio"
+msgstr "radio"
+
+#: core/metaboxes/settings/_example.php:57
+#: core/metaboxes/settings/_example.php:70
+#: core/metaboxes/settings/_example.php:233
+#: core/metaboxes/settings/_example.php:281
+msgid "Label1"
+msgstr "Etiqueta 1"
+
+#: core/metaboxes/settings/_example.php:58
+#: core/metaboxes/settings/_example.php:71
+#: core/metaboxes/settings/_example.php:234
+#: core/metaboxes/settings/_example.php:282
+msgid "Label2"
+msgstr "Etiqueta 2"
+
+#: core/metaboxes/settings/_example.php:65
+#: core/metaboxes/settings/_example.php:276
+msgid "Select"
+msgstr "seleccionar"
+
+#: core/metaboxes/settings/_example.php:76
+#: core/metaboxes/settings/_example.php:287
+msgid "Select an Item"
+msgstr "Seleccionar un elemento"
+
+#: core/metaboxes/settings/_example.php:84
+msgid "Hidden value"
+msgstr "valor oculto"
+
+#: core/metaboxes/settings/_example.php:89
+#: core/metaboxes/settings/portfolio.php:46
+msgid "Date (mm.dd.yyyy):"
+msgstr "Date (mm.dd.yyyy):"
+
+#: core/metaboxes/settings/_example.php:95
+#: core/metaboxes/settings/portfolio.php:52
+msgid "mm.dd.yy"
+msgstr "mm.dd.yy"
+
+#: core/metaboxes/settings/_example.php:111
+#: core/metaboxes/settings/portfolio.php:111
+msgid "Description:"
+msgstr "Descripción:"
+
+#: core/metaboxes/settings/_example.php:116
+#: core/metaboxes/settings/portfolio.php:115
+msgid "Your Description here..."
+msgstr "Su descripción aquí ..."
+
+#: core/metaboxes/settings/_example.php:127
+msgid "Textarea"
+msgstr "Textarea"
+
+#: core/metaboxes/settings/_example.php:128
+msgid "Textarea description"
+msgstr "Descripción Textarea"
+
+#: core/metaboxes/settings/_example.php:154
+msgid "Advanced Fields"
+msgstr "Los campos avanzada"
+
+#: core/metaboxes/settings/_example.php:160
+msgid "Heading"
+msgstr "título"
+
+#: core/metaboxes/settings/_example.php:165
+#: core/shortcodes/shortcodes-mapper.php:159
+#: core/shortcodes/shortcodes-mapper.php:778
+msgid "Slider"
+msgstr "Control deslizante"
+
+#: core/metaboxes/settings/_example.php:170
+msgid "$"
+msgstr "$"
+
+#: core/metaboxes/settings/_example.php:171
+msgid " USD"
+msgstr "USD"
+
+#: core/metaboxes/settings/_example.php:183
+msgid "Number"
+msgstr "Numero"
+
+#: core/metaboxes/settings/_example.php:193
+msgid "Datetime picker"
+msgstr "Fecha y hora selector"
+
+#: core/metaboxes/settings/_example.php:207
+msgid "Time picker"
+msgstr "selector de tiempo"
+
+#: core/metaboxes/settings/_example.php:222
+msgid "Color picker"
+msgstr "selector de color"
+
+#: core/metaboxes/settings/_example.php:228
+msgid "Checkbox list"
+msgstr "lista Casilla"
+
+#: core/metaboxes/settings/_example.php:239
+#: core/options/settings/header.php:72
+#: core/shortcodes/shortcodes-mapper.php:739
+msgid "Email"
+msgstr "Correo Electrónico "
+
+#: core/metaboxes/settings/_example.php:241
+msgid "Email description"
+msgstr "Descripción Correo electrónico"
+
+#: core/metaboxes/settings/_example.php:247
+msgid "Range"
+msgstr "alcance"
+
+#: core/metaboxes/settings/_example.php:249
+msgid "Range description"
+msgstr "Descripción Rango"
+
+#: core/metaboxes/settings/_example.php:259
+#: core/options/framework/core/inc/fields/slides/field_slides.php:153
+#: core/options/framework/core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: core/metaboxes/settings/_example.php:261
+msgid "URL description"
+msgstr "Descripción URL"
+
+#: core/metaboxes/settings/_example.php:268
+msgid "oEmbed"
+msgstr "incrustar"
+
+#: core/metaboxes/settings/_example.php:270
+msgid "oEmbed description"
+msgstr "Incrustar descripción "
+
+#: core/metaboxes/settings/_example.php:292
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: core/metaboxes/settings/_example.php:307
+msgid "Posts (Pages)"
+msgstr "Entradas (Páginas)"
+
+#: core/metaboxes/settings/_example.php:324
+msgid "File Advanced Upload"
+msgstr "Archivo Avance de actualización"
+
+#: core/metaboxes/settings/page.php:12
+msgid "Page Settings"
+msgstr "Configuración de página"
+
+#: core/metaboxes/settings/page.php:27
+#: core/metaboxes/settings/portfolio.php:137
+#: core/metaboxes/settings/post.php:228
+msgid "Breadcrumbs:"
+msgstr "Pan rallado:"
+
+#: core/metaboxes/settings/page.php:32
+#: core/metaboxes/settings/portfolio.php:142
+#: core/metaboxes/settings/post.php:233
+#: core/options/framework/core/framework.php:2193
+msgid "Default"
+msgstr "defecto"
+
+#: core/metaboxes/settings/page.php:33
+#: core/metaboxes/settings/portfolio.php:143
+#: core/metaboxes/settings/post.php:234
+msgid "Show"
+msgstr "Show"
+
+#: core/metaboxes/settings/page.php:34
+#: core/metaboxes/settings/portfolio.php:144
+#: core/metaboxes/settings/post.php:235
+msgid "Hide"
+msgstr "ocultar"
+
+#: core/metaboxes/settings/page.php:44
+msgid "Page Layout"
+msgstr "diseño de página"
+
+#: core/metaboxes/settings/page.php:66
+msgid "Select widgets area for this page."
+msgstr "Seleccione área widgets para esta página."
+
+#: core/metaboxes/settings/page.php:70
+msgid "Select Widgets Area"
+msgstr "Seleccione Área Widgets"
+
+#: core/metaboxes/settings/portfolio.php:6
+msgid "Portfolio Gallery"
+msgstr "Portafolio Galería"
+
+#: core/metaboxes/settings/portfolio.php:25
+#: core/metaboxes/settings/post.php:114
+msgid "Ctrl/Cmd + click: select multiply images from media library."
+msgstr ""
+"Ctrl / Cmd + clic: seleccionar las imágenes que se multiplican a partir de "
+"la biblioteca de medios."
+
+#: core/metaboxes/settings/portfolio.php:36
+msgid "Portfolio Details"
+msgstr "Portafolio Detalles"
+
+#: core/metaboxes/settings/portfolio.php:75
+msgid "Author URL:"
+msgstr "Autor URL:"
+
+#: core/metaboxes/settings/portfolio.php:89
+msgid "Client:"
+msgstr "Ciente:"
+
+#: core/metaboxes/settings/portfolio.php:92
+msgid "Jane Doe"
+msgstr "Jane Doe"
+
+#: core/metaboxes/settings/portfolio.php:97
+msgid "Client URL:"
+msgstr "Cliente URL:"
+
+#: core/metaboxes/settings/portfolio.php:128
+msgid "Portfolio Settings"
+msgstr "Portfolio Settings"
+
+#: core/metaboxes/settings/post.php:13
+msgid "Link Post Options"
+msgstr "Enlace Opciones de Mensaje"
+
+#: core/metaboxes/settings/post.php:23
+msgid "Link URL:"
+msgstr "Enlace URL:"
+
+#: core/metaboxes/settings/post.php:25
+msgid "Post title will be a link to the URL."
+msgstr "Post title will be a link to the URL."
+
+#: core/metaboxes/settings/post.php:36
+msgid "Target of link:"
+msgstr "Objetivo de enlace:"
+
+#: core/metaboxes/settings/post.php:39
+msgid "Set target of link."
+msgstr "Target of link:"
+
+#: core/metaboxes/settings/post.php:41
+msgid "New window or tab"
+msgstr "Nueva ventana o pestaña"
+
+#: core/metaboxes/settings/post.php:42
+msgid "Same window or tab"
+msgstr "La misma ventana o pestaña"
+
+#: core/metaboxes/settings/post.php:53
+msgid "Link Relationship (optional):"
+msgstr "Link Relationship (optional):"
+
+#: core/metaboxes/settings/post.php:55
+msgid "Set link \"rel\" attribute. Example: nofollow, dofollow or etc."
+msgstr "Establecer enlace rel  atributo. Ejemplo: nofollow, etc. dofollow o"
+
+#: core/metaboxes/settings/post.php:66 core/metaboxes/settings/post.php:168
+msgid "Quote Post Options"
+msgstr "Quote Post Options"
+
+#: core/metaboxes/settings/post.php:76
+msgid "Quote text:"
+msgstr "Texto Cita:"
+
+#: core/metaboxes/settings/post.php:77
+msgid "Add text for quote."
+msgstr "Añada el texto para la cita."
+
+#: core/metaboxes/settings/post.php:90
+msgid "Quote author:"
+msgstr "Cita autor:"
+
+#: core/metaboxes/settings/post.php:92
+msgid "Who said this quote?"
+msgstr "¿Quién dijo que esta cita?"
+
+#: core/metaboxes/settings/post.php:102
+msgid "Gallery Post Options"
+msgstr "Gallery Post Opciones"
+
+#: core/metaboxes/settings/post.php:110
+msgid "Gallery"
+msgstr "Galeria "
+
+#: core/metaboxes/settings/post.php:122
+msgid "Video Post Options"
+msgstr "Vídeo Opciones de Mensaje"
+
+#: core/metaboxes/settings/post.php:131
+msgid "Video source:"
+msgstr "Fuente de vídeo:"
+
+#: core/metaboxes/settings/post.php:133
+msgid "Select video source."
+msgstr "Fuente de Vídeo:"
+
+#: core/metaboxes/settings/post.php:149
+msgid "Video Url:"
+msgstr "Video URL:"
+
+#: core/metaboxes/settings/post.php:151
+msgid ""
+"Video URL. For example:<br/>YouTube - <a href=\"#\">https://www.youtube.com/"
+"watch?v=BsekcY04xvQ</a><br/>Vimeo - <a href=\"#\">http://vimeo."
+"com/102671169</a>"
+msgstr "Video URL. Por ejemplo:"
+
+#: core/metaboxes/settings/post.php:156
+msgid "Video embed code:"
+msgstr "Vídeo código de inserción:"
+
+#: core/metaboxes/settings/post.php:157
+msgid "Add your embed code here. <a href=\"#\">Get the example.</a>"
+msgstr "Añade tu código de inserción aquí.Obtener el ejemplo."
+
+#: core/metaboxes/settings/post.php:176
+msgid "Audio source:"
+msgstr "La fuente de audio:"
+
+#: core/metaboxes/settings/post.php:178
+msgid "Select audio source."
+msgstr "Seleccione la fuente de audio."
+
+#: core/metaboxes/settings/post.php:193
+msgid "Audio Url:"
+msgstr "Audio Url:"
+
+#: core/metaboxes/settings/post.php:195
+msgid ""
+"Audio URL. For example:<br/>SoundCloud - <a href=\"#\">https://soundcloud."
+"com/alunageorge/coldplay-magic-alunageorge-remix</a>"
+msgstr "URL Audio. Por ejemplo:"
+
+#: core/metaboxes/settings/post.php:200
+msgid "Audio file:"
+msgstr "Archivo de audio:"
+
+#: core/metaboxes/settings/post.php:201
+msgid "Upload your audio file here."
+msgstr "Sube tu archivo de audio aquí."
+
+#: core/metaboxes/settings/post.php:214
+msgid "Post Settings"
+msgstr "Ajustes de Correos"
+
+#: core/metaboxes/settings/services.php:5
+msgid "Service Details"
+msgstr "Detalles del servicio"
+
+#: core/metaboxes/settings/services.php:14
+msgid "Service Text:"
+msgstr "Texto de servicio:"
+
+#: core/metaboxes/settings/services.php:15
+msgid "Add your text for the service item."
+msgstr "Añada su texto para el elemento de servicio."
+
+#: core/metaboxes/settings/services.php:28
+msgid "Service Icon:"
+msgstr "Icono de servicio:"
+
+#: core/metaboxes/settings/team.php:7
+msgid "Team Member Details"
+msgstr "Team Member Details"
+
+#: core/metaboxes/settings/team.php:15
+msgid "Picture:"
+msgstr "Imagen:"
+
+#: core/metaboxes/settings/team.php:27
+msgid "About:"
+msgstr "Acerca de:"
+
+#: core/metaboxes/settings/team.php:28
+msgid "Some words about the member."
+msgstr "Algunas palabras sobre el miembro."
+
+#: core/metaboxes/settings/team.php:41
+msgid "Position:"
+msgstr "Posición:"
+
+#: core/metaboxes/settings/team.php:43 core/metaboxes/settings/team.php:146
+#: core/metaboxes/settings/team.php:158 core/metaboxes/settings/team.php:170
+#: core/metaboxes/settings/team.php:182
+msgid "Ex:"
+msgstr "Ex:"
+
+#: core/metaboxes/settings/team.php:43
+msgid "Web Developer"
+msgstr "desarrollador Web"
+
+#: core/metaboxes/settings/team.php:43
+msgid "Sales Manager"
+msgstr "gerente de ventas"
+
+#: core/metaboxes/settings/team.php:48
+msgid "Social Networks"
+msgstr "Redes Sociales"
+
+#: core/metaboxes/settings/team.php:58
+msgid "Social Networks:"
+msgstr "Redes Sociales"
+
+#: core/metaboxes/settings/team.php:60
+msgid "Select social network. Clone this field to choose another network."
+msgstr "Seleccione red social. Clonar este campo para elegir otra red."
+
+#: core/metaboxes/settings/team.php:125
+msgid "Select Social Network"
+msgstr "Select social network. Clone this field to choose another network."
+
+#: core/metaboxes/settings/team.php:135
+msgid "Social URLs:"
+msgstr "URL Sociales:"
+
+#: core/metaboxes/settings/team.php:137
+msgid ""
+"Select URLs for your social networks defined above. Clone this field to "
+"choose another network.<br/>Note that the number and order of these fields "
+"must comply with social networks fields , defined above."
+msgstr ""
+"Seleccionar URL para sus redes sociales definidos anteriormente. Clonar este "
+"campo para seleccionar otro network.Note que el número y el orden de estos "
+"campos deben cumplir con los campos de las redes sociales, definidos "
+"anteriormente."
+
+#: core/metaboxes/settings/team.php:144
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: core/metaboxes/settings/team.php:156
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: core/metaboxes/settings/team.php:168
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+#: core/metaboxes/settings/team.php:180
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+#: core/metaboxes/settings/testimonials.php:15
+msgid "Author Name:"
+msgstr "Autor Nombre:"
+
+#: core/metaboxes/settings/testimonials.php:23
+msgid "Author Photo:"
+msgstr "Autor Foto:"
+
+#: core/metaboxes/settings/testimonials.php:35
+msgid "Company or Position:"
+msgstr "Empresa o Posición:"
+
+#: core/metaboxes/settings/testimonials.php:38
+msgid "Google Inc."
+msgstr "Google Inc."
+
+#: core/metaboxes/settings/testimonials.php:48
+#: core/shortcodes/shortcodes-mapper.php:232
+msgid "Text"
+msgstr "texto"
+
+#: core/metaboxes/settings/testimonials.php:54
+msgid "Your text here..."
+msgstr "Su texto aquí ..."
+
+#: core/metaboxes/settings/testimonials.php:64
+msgid "Rating:"
+msgstr "Clasificación:"
+
+#: core/metaboxes/settings/testimonials.php:67
+msgid " Stars"
+msgstr "estrellas"
+
+#: core/options/config.php:78 core/options/config.php:79
+#: core/options/framework/core/framework.php:202
+#: core/options/framework/core/framework.php:206
+#: core/shortcodes/shortcodes-mapper.php:342
+msgid "Options"
+msgstr "Opciones"
+
+#: core/options/config.php:104
+msgid "Follow us on Twitter"
+msgstr "Siga con nosotros en Twitter"
+
+#: core/options/config.php:123
+msgid "Theme Information 1"
+msgstr "Información Tema 1"
+
+#: core/options/config.php:124
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "Este es el contenido pestaña, se permite HTML."
+
+#: core/options/config.php:128
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "Este es el contenido de la barra lateral, se permite HTML "
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:469
+#: core/options/framework/core/framework.php:1890
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Usted tiene cambios que no se guardan. ¿Te gustaría salvarlos ahora?"
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:470
+#: core/options/framework/core/framework.php:1898
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados."
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:471
+#: core/options/framework/core/framework.php:1914
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Las opciones actuales serán reemplazados con los valores del preset "
+"guardado. ¿Quieres continuar?"
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:504
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Usted tiene cambios que no se guardan. ¿Te gustaría salvarlos ahora?"
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:505
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados."
+
+#: core/options/framework/core/extensions/customizer/extension_customizer.php:506
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Las opciones actuales serán reemplazados con los valores del preset "
+"guardado. ¿Quieres continuar?"
+
+#: core/options/framework/core/framework.php:198
+msgid "Options panel created using %1$s"
+msgstr "Panel Opciones creado usando"
+
+#: core/options/framework/core/framework.php:198
+msgid "Redux Framework"
+msgstr "Redux Marco"
+
+#: core/options/framework/core/framework.php:1344
+#: core/options/framework/core/framework.php:1345
+#: core/options/framework/core/framework.php:3493
+#: core/options/framework/core/framework.php:3572
+msgid "System Info"
+msgstr "Información del sistema"
+
+#: core/options/framework/core/framework.php:1906
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados en "
+"esta sección."
+
+#: core/options/framework/core/framework.php:1921
+msgid "Please Wait"
+msgstr "por favor espera"
+
+#: core/options/framework/core/framework.php:2068
+msgid "Hints"
+msgstr "Sugerencias"
+
+#: core/options/framework/core/framework.php:3244
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Aviso Este panel de opciones no funcionará correctamente sin JavaScript!"
+
+#: core/options/framework/core/framework.php:3291
+msgid "Developer Mode Enabled"
+msgstr "Modo desarrollador Activado"
+
+#: core/options/framework/core/framework.php:3319
+msgid "Expand"
+msgstr "expandir"
+
+#: core/options/framework/core/framework.php:3321
+#: core/options/framework/core/framework.php:3629
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: core/options/framework/core/framework.php:3325
+#: core/options/framework/core/framework.php:3633
+msgid "Reset Section"
+msgstr "Restablecer Sección"
+
+#: core/options/framework/core/framework.php:3327
+#: core/options/framework/core/framework.php:3635
+msgid "Reset All"
+msgstr "Restablecer todo"
+
+#: core/options/framework/core/framework.php:3332
+#: core/options/framework/core/framework.php:3640
+msgid "Working..."
+msgstr "De Trabajo ..."
+
+#: core/options/framework/core/framework.php:3352
+msgid "Settings Imported!"
+msgstr "Ajustes importados!"
+
+#: core/options/framework/core/framework.php:3367
+msgid "All Defaults Restored!"
+msgstr "Todos los valores predeterminados restaurados!"
+
+#: core/options/framework/core/framework.php:3381
+msgid "Section Defaults Restored!"
+msgstr "Sección predeterminados restaurados!"
+
+#: core/options/framework/core/framework.php:3395
+msgid "Settings Saved!"
+msgstr "Ajustes guardados!"
+
+#: core/options/framework/core/framework.php:3413
+msgid "Settings have changed, you should save them!"
+msgstr "La configuración ha cambiado, debe salvarlos!"
+
+#: core/options/framework/core/framework.php:3421
+msgid "error(s) were found!"
+msgstr "La configuracion ha Cambiado, salvarlos Dębe!"
+
+#: core/options/framework/core/framework.php:3429
+msgid "warning(s) were found!"
+msgstr "advertencia (s) se encontraron!"
+
+#: core/options/framework/core/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr "No se puede crear un directorio requerido. Por favor, asegúrese de que"
+
+#: core/options/framework/core/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+"tiene los permisos adecuados de lectura / escritura o ingrese su información "
+"de FTP a continuación."
+
+#: core/options/framework/core/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr "despedir"
+
+#: core/options/framework/core/inc/debug.php:41
+#: core/options/framework/core/inc/debug.php:69
+#: core/options/framework/core/inc/debug.php:76
+#: core/options/framework/core/inc/debug.php:77
+msgid "Options Object"
+msgstr "Opciones de objetos"
+
+#: core/options/framework/core/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostrar objetos en objetos Javascript Consola"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:124
+#: core/options/framework/core/inc/fields/color/field_color.php:72
+#: core/options/framework/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: core/options/framework/core/inc/fields/color_gradient/field_color_gradient.php:91
+#: core/options/framework/core/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr "transparente"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Repita Antecedentes"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Antecedentes videoclip"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "origen Antecedentes"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Antecedentes Tamaño"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Adjunto Antecedentes"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Antecedentes Posición"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:277
+#: core/options/framework/core/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr "No hay medios de comunicación seleccionados"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:314
+#: core/options/framework/core/inc/fields/media/field_media.php:159
+#: core/options/framework/core/inc/fields/slides/field_slides.php:126
+#: core/options/framework/core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Subir"
+
+#: core/options/framework/core/inc/fields/background/field_background.php:321
+#: core/options/framework/core/inc/fields/media/field_media.php:166
+#: core/options/framework/core/inc/fields/multi_text/field_multi_text.php:69
+#: core/options/framework/core/inc/fields/multi_text/field_multi_text.php:73
+#: core/options/framework/core/inc/fields/multi_text/field_multi_text.php:76
+#: core/options/framework/core/inc/fields/slides/field_slides.php:133
+#: core/options/framework/core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Retire"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:114
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:191
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:313
+#: template-portfolio.php:63 tpl-portfolio-2cols.php:74
+#: tpl-portfolio-3cols.php:74 tpl-portfolio-4cols.php:74
+#: tpl-portfolio-full.php:74
+msgid "All"
+msgstr "todo"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:127
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "superior"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:134
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "derecho"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:141
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "fondo"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:148
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "izquierda"
+
+#: core/options/framework/core/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "estilo del borde"
+
+#: core/options/framework/core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "desde"
+
+#: core/options/framework/core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "a"
+
+#: core/options/framework/core/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr "ancho"
+
+#: core/options/framework/core/inc/fields/dimensions/field_dimensions.php:177
+#: core/options/framework/core/inc/fields/typography/field_typography.php:432
+msgid "Height"
+msgstr "altura"
+
+#: core/options/framework/core/inc/fields/dimensions/field_dimensions.php:188
+#: core/options/framework/core/inc/fields/dimensions/field_dimensions.php:189
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:245
+#: core/options/framework/core/inc/fields/spacing/field_spacing.php:246
+#: core/shortcodes/shortcodes-mapper.php:301
+msgid "Units"
+msgstr "Unidades"
+
+#: core/options/framework/core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Añadir / Editar Galería"
+
+#: core/options/framework/core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Claro Galería"
+
+#: core/options/framework/core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "regular"
+
+#: core/options/framework/core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "flotar"
+
+#: core/options/framework/core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "visitado"
+
+#: core/options/framework/core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "activo"
+
+#: core/options/framework/core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr "Añadir más"
+
+#: core/options/framework/core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "contraseña"
+
+#: core/options/framework/core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: core/options/framework/core/inc/fields/select/field_select.php:82
+#: core/options/framework/core/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Seleccione un elemento"
+
+#: core/options/framework/core/inc/fields/select/field_select.php:126
+#: core/options/framework/core/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr "No se encontraron artículos de este tipo."
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "diapositiva"
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:73
+msgid "New %s"
+msgstr "Nuevo"
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:145
+#: core/options/framework/core/inc/fields/slides/field_slides.php:200
+#: core/shortcodes/shortcodes-mapper.php:111
+#: core/shortcodes/shortcodes-mapper.php:133
+#: core/shortcodes/shortcodes-mapper.php:375
+#: core/widgets/widget-twitter.php:104
+msgid "Title"
+msgstr "Titulo"
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:149
+#: core/options/framework/core/inc/fields/slides/field_slides.php:204
+#: core/shortcodes/shortcodes-mapper.php:554 single-xenia_portfolio.php:159
+#: single-xenia_portfolio.php:194 tpl-portfolio-single-half.php:179
+#: tpl-portfolio-single-half.php:214 tpl-portfolio-single-wide.php:179
+#: tpl-portfolio-single-wide.php:214
+msgid "Description"
+msgstr "descripción"
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:167
+#: core/options/framework/core/inc/fields/slides/field_slides.php:220
+msgid "Delete %s"
+msgstr "Borrar"
+
+#: core/options/framework/core/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr "Añadir"
+
+#: core/options/framework/core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "Sobre"
+
+#: core/options/framework/core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "apagado"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:223
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:224
+msgid "Font family"
+msgstr "Familia de fuentes"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:250
+#: core/options/framework/core/inc/fields/typography/field_typography.php:251
+msgid "Backup Font Family"
+msgstr "Backup Font Family"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:265
+#: core/options/framework/core/inc/fields/typography/field_typography.php:272
+msgid "Font style"
+msgstr "estilo de fuente"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:266
+msgid "Font Weight &amp; Style"
+msgstr "Fuente Peso Estilo"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:272
+msgid "Style"
+msgstr "Estilo"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:312
+msgid "Font subsets"
+msgstr "subconjuntos de fuentes"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:314
+msgid "Font Subsets"
+msgstr "subconjuntos de fuentes"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:315
+msgid "Subsets"
+msgstr "subconjuntos"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:315
+msgid "Font script"
+msgstr "Guión de Fuente"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:332
+#: core/options/framework/core/inc/fields/typography/field_typography.php:333
+#: core/options/framework/core/inc/fields/typography/field_typography.php:334
+msgid "Text Align"
+msgstr "Texto Alinear"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:355
+#: core/options/framework/core/inc/fields/typography/field_typography.php:356
+#: core/options/framework/core/inc/fields/typography/field_typography.php:357
+msgid "Text Transform"
+msgstr "Texto Transform"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:378
+#: core/options/framework/core/inc/fields/typography/field_typography.php:379
+#: core/options/framework/core/inc/fields/typography/field_typography.php:380
+msgid "Font Variant"
+msgstr "Fuente Variant"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:398
+#: core/options/framework/core/inc/fields/typography/field_typography.php:399
+#: core/options/framework/core/inc/fields/typography/field_typography.php:400
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:422
+#: core/options/framework/core/inc/fields/typography/field_typography.php:423
+msgid "Font Size"
+msgstr "Tamaño de la Fuente"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:423
+msgid "Size"
+msgstr "tamaño"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:431
+#: core/options/framework/core/inc/fields/typography/field_typography.php:432
+msgid "Line Height"
+msgstr "Línea de Altura"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:440
+#: core/options/framework/core/inc/fields/typography/field_typography.php:441
+msgid "Word Spacing"
+msgstr "Palabra Espaciado"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:449
+#: core/options/framework/core/inc/fields/typography/field_typography.php:450
+msgid "Letter Spacing"
+msgstr "Espaciado Carta"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:468
+#: core/shortcodes/shortcodes-mapper.php:186
+msgid "Font Color"
+msgstr "color de fuente"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:470
+msgid "Font color"
+msgstr "color de fuente"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:837
+msgid "Standard Fonts"
+msgstr "Norma Fuentes"
+
+#: core/options/framework/core/inc/fields/typography/field_typography.php:938
+msgid "Google Webfonts"
+msgstr "Google TypeDNA Font Manager"
+
+#: core/options/framework/core/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr "Importar / Exportar Opciones"
+
+#: core/options/framework/core/inc/import_export.php:81
+msgid "Import Options"
+msgstr "Opciones de importación"
+
+#: core/options/framework/core/inc/import_export.php:82
+msgid "Import from file"
+msgstr "Importar de archivo"
+
+#: core/options/framework/core/inc/import_export.php:82
+msgid "Import from URL"
+msgstr "Importar de URL"
+
+#: core/options/framework/core/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+
+#: core/options/framework/core/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Introduzca la URL para otros sitios opciones establecidas y golpeados en "
+"Importar para cargar las opciones de ese sitio."
+
+#: core/options/framework/core/inc/import_export.php:94
+msgid "Import"
+msgstr "Inportar"
+
+#: core/options/framework/core/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ADVERTENCIA! Esto sobrescribirá todos los valores de las opciones "
+"existentes, proceda con precaución!"
+
+#: core/options/framework/core/inc/import_export.php:97
+msgid "Export Options"
+msgstr "Export Options"
+
+#: core/options/framework/core/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Aquí puedes copiar / descargar la configuración de opciones actuales. "
+"Mantenga este seguro, ya que se puede utilizar como una copia de seguridad "
+"si algo va mal, o se puede utilizar para restaurar la configuración de este "
+"sitio (o cualquier otro sitio)."
+
+#: core/options/framework/core/inc/import_export.php:104
+msgid "Copy"
+msgstr "Copiar"
+
+#: core/options/framework/core/inc/import_export.php:104
+msgid "Download"
+msgstr "descargar"
+
+#: core/options/framework/core/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Copiar enlace"
+
+#: core/options/framework/core/inc/import_export.php:140
+#: core/options/framework/core/inc/import_export.php:149
+#: core/options/framework/core/inc/import_export.php:150
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: core/options/framework/core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "Ayude a mejorar Nuestro Grupo"
+
+#: core/options/framework/core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+"Por favor, nos ayuda a mejorar nuestro panel por lo que nos permite "
+"recopilar estadísticas anónimas de uso por lo que sabemos que las "
+"configuraciones, plugins y temas para poner a prueba para asegurar la "
+"compatibilidad."
+
+#: core/options/framework/core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "Permitir el seguimiento"
+
+#: core/options/framework/core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "Permitir el seguimiento"
+
+#: core/options/framework/core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Bienvenido al Panel de Redux demo"
+
+#: core/options/framework/core/inc/tracking.php:152
+#: core/options/framework/core/inc/welcome.php:125
+msgid "Getting Started"
+msgstr "empezando"
+
+#: core/options/framework/core/inc/tracking.php:152
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+"Este panel muestra las muchas características de Redux. Antes de excavar en, "
+"le sugerimos que se levanta a la velocidad mediante la revisión de% 1 $ s."
+
+#: core/options/framework/core/inc/tracking.php:152
+msgid "our documentation"
+msgstr "our documentation"
+
+#: core/options/framework/core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Redux Generador"
+
+#: core/options/framework/core/inc/tracking.php:153
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+"¿Quieres conseguir una ventaja? Utilice el% 1 $ s. Se va a crear un tema "
+"repetitivo personalizar o una carpeta de administración independiente "
+"completa con todas las cosas Redux (con la ayuda de realce y TGM). Ahórrese "
+"un dolor de cabeza y probarlo hoy."
+
+#: core/options/framework/core/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr "Extensiones Redux"
+
+#: core/options/framework/core/inc/tracking.php:154
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+"¿Sabía usted que tenemos extensiones, que mejoran en gran medida las "
+"características de Redux? Visita nuestra para aprender más!"
+
+#: core/options/framework/core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "extensions directory"
+
+#: core/options/framework/core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "Como Redux?"
+
+#: core/options/framework/core/inc/tracking.php:155
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+"Si es así, por favor, y considerar la posibilidad de mantener un desarrollo "
+"de Redux avanzar."
+
+#: core/options/framework/core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "nos deja una opinión favorable sobre WordPress.org"
+
+#: core/options/framework/core/inc/tracking.php:155
+msgid "donation"
+msgstr "donación"
+
+#: core/options/framework/core/inc/tracking.php:156
+msgid "Newsletter"
+msgstr "hoja informativa"
+
+#: core/options/framework/core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"Si desea estar al tanto de todas las cosas Redux, por favor suscríbase a "
+"nuestro boletín"
+
+#: core/options/framework/core/inc/tracking.php:157
+msgid "Email address"
+msgstr "dirección de correo electrónico"
+
+#: core/options/framework/core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr "suscribir"
+
+#: core/options/framework/core/inc/tracking.php:166
+msgid "Close"
+msgstr "Cerrar"
+
+#: core/options/framework/core/inc/validation/color/validation_color.php:15
+#: core/options/framework/core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: core/options/framework/core/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "Este campo debe tener un valor de color válido."
+
+#: core/options/framework/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Usted debe proporcionar una lista separada por comas de los valores "
+"numéricos de esta opción."
+
+#: core/options/framework/core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Este campo debe ser una fecha válida."
+
+#: core/options/framework/core/inc/validation/email/validation_email.php:16
+#: core/options/framework/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+"Usted debe proporcionar una dirección de correo electrónico válida para esta "
+"opción."
+
+#: core/options/framework/core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Usted no debe introducir ningún HTML en este campo, se han eliminado todas "
+"las etiquetas HTML."
+
+#: core/options/framework/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Usted no debe introducir ningún carácter especial en este campo, se han "
+"eliminado todos los caracteres especiales."
+
+#: core/options/framework/core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo no puede estar vacío. Por favor, proporcione un valor."
+
+#: core/options/framework/core/inc/validation/numeric/validation_numeric.php:16
+#: core/options/framework/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Debe proporcionar un valor numérico para esta opción."
+
+#: core/options/framework/core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Usted debe proporcionar una URL válida para esta opción."
+
+#: core/options/framework/core/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr "Bienvenido a Redux Marco"
+
+#: core/options/framework/core/inc/welcome.php:45
+#: core/options/framework/core/inc/welcome.php:259
+msgid "Redux Framework Changelog"
+msgstr "Redux Marco de cambios"
+
+#: core/options/framework/core/inc/welcome.php:50
+msgid "Getting started with Redux Framework"
+msgstr "Primeros pasos con Redux Marco"
+
+#: core/options/framework/core/inc/welcome.php:55
+msgid "The people that develop Redux Framework"
+msgstr "Las personas que desarrollan Redux Marco"
+
+#: core/options/framework/core/inc/welcome.php:122
+msgid "What's New"
+msgstr "Qué hay de nuevo"
+
+#: core/options/framework/core/inc/welcome.php:128
+msgid "Changelog"
+msgstr "Historial de cambios"
+
+#: core/options/framework/core/inc/welcome.php:131
+msgid "Credits"
+msgstr "Créditos"
+
+#: core/options/framework/core/inc/welcome.php:148
+#: core/options/framework/core/inc/welcome.php:291
+#: core/options/framework/core/inc/welcome.php:410
+msgid "Welcome to Redux Framework %s"
+msgstr "Bienvenido a Redux Marco %s"
+
+#: core/options/framework/core/inc/welcome.php:149
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+"Gracias por actualizar a la última versión! Redux Framework %s  está listo "
+"para <añadir una descripcción>"
+
+#: core/options/framework/core/inc/welcome.php:150
+#: core/options/framework/core/inc/welcome.php:261
+#: core/options/framework/core/inc/welcome.php:293
+#: core/options/framework/core/inc/welcome.php:412
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: core/options/framework/core/inc/welcome.php:155
+msgid "Some Feature"
+msgstr "Algunos de funciones"
+
+#: core/options/framework/core/inc/welcome.php:159
+#: core/options/framework/core/inc/welcome.php:162
+#: core/options/framework/core/inc/welcome.php:174
+#: core/options/framework/core/inc/welcome.php:177
+#: core/options/framework/core/inc/welcome.php:180
+#: core/options/framework/core/inc/welcome.php:185
+#: core/options/framework/core/inc/welcome.php:196
+#: core/options/framework/core/inc/welcome.php:199
+#: core/options/framework/core/inc/welcome.php:204
+msgid "Feature"
+msgstr "característica"
+
+#: core/options/framework/core/inc/welcome.php:169
+msgid "Some feature"
+msgstr "Algunos característica"
+
+#: core/options/framework/core/inc/welcome.php:192
+msgid "More Features"
+msgstr "Más características"
+
+#: core/options/framework/core/inc/welcome.php:197
+#: core/options/framework/core/inc/welcome.php:200
+#: core/options/framework/core/inc/welcome.php:205
+msgid "description"
+msgstr "descripción"
+
+#: core/options/framework/core/inc/welcome.php:211
+msgid "Additional Updates"
+msgstr "Actualizaciones adicional"
+
+#: core/options/framework/core/inc/welcome.php:215
+#: core/options/framework/core/inc/welcome.php:218
+#: core/options/framework/core/inc/welcome.php:223
+#: core/options/framework/core/inc/welcome.php:226
+#: core/options/framework/core/inc/welcome.php:231
+#: core/options/framework/core/inc/welcome.php:234
+msgid "Cool thing"
+msgstr "lo bueno"
+
+#: core/options/framework/core/inc/welcome.php:216
+#: core/options/framework/core/inc/welcome.php:219
+#: core/options/framework/core/inc/welcome.php:224
+#: core/options/framework/core/inc/welcome.php:227
+#: core/options/framework/core/inc/welcome.php:232
+#: core/options/framework/core/inc/welcome.php:235
+msgid "cool thing description."
+msgstr "Descripción fresco cosa."
+
+#: core/options/framework/core/inc/welcome.php:241
+#: core/options/framework/core/inc/welcome.php:274
+msgid "Go to Redux Framework"
+msgstr "Ir a Redux Marco"
+
+#: core/options/framework/core/inc/welcome.php:242
+msgid "View the Full Changelog"
+msgstr "Ver la lista completa de cambios"
+
+#: core/options/framework/core/inc/welcome.php:260
+#: core/options/framework/core/inc/welcome.php:292
+#: core/options/framework/core/inc/welcome.php:411
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+"Gracias por actualizar a la última versión que usted! Redux Marco está listo "
+"para hacer su descripción"
+
+#: core/options/framework/core/inc/welcome.php:266
+msgid "Full Changelog"
+msgstr "Historial de cambios completo"
+
+#: core/options/framework/core/inc/welcome.php:297
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr "Historial de Cambios completo"
+
+#: core/options/framework/core/inc/welcome.php:300
+msgid "Creating Your First Panel"
+msgstr "Creación de su primer panel"
+
+#: core/options/framework/core/inc/welcome.php:306
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr "<a href=\"%s\">% s y rarr; Agregar nuevo </a>"
+
+#: core/options/framework/core/inc/welcome.php:307
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+"El menú% s es el punto de acceso para todos los aspectos de su creación de "
+"productos digitales y Descargas Fácil instalación. Para crear su primer "
+"producto, simplemente haga clic en Agregar nuevo y luego rellenar los "
+"detalles del producto."
+
+#: core/options/framework/core/inc/welcome.php:309
+msgid "Product Price"
+msgstr "Producto Precio"
+
+#: core/options/framework/core/inc/welcome.php:310
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+"Los productos pueden tener los precios simples o precios variables, si usted "
+"desea tener más de un punto de precio para un producto. Por un solo precio, "
+"entra el precio. Para múltiples puntos de precio, haga clic en <em> "
+"Habilitar precios variables </ em> y escriba las opciones."
+
+#: core/options/framework/core/inc/welcome.php:312
+msgid "Download Files"
+msgstr "Descargar archivos"
+
+#: core/options/framework/core/inc/welcome.php:313
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+"Carga de los archivos descargables es simple. Haga clic en <em> Cargar "
+"Archivo </ em> en la sección Archivos de Descarga y elija su archivo de "
+"descarga. Para agregar más de un archivo, simplemente haga clic en el <em> "
+"Agregar nuevo botón </ em>."
+
+#: core/options/framework/core/inc/welcome.php:319
+msgid "Display a Product Grid"
+msgstr "Mostrar una cuadrícula Producto"
+
+#: core/options/framework/core/inc/welcome.php:325
+msgid "Flexible Product Grids"
+msgstr "Rejillas producto flexible"
+
+#: core/options/framework/core/inc/welcome.php:326
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+"El [descargas] código corto mostrará una cuadrícula producto que funciona "
+"con cualquier tema, no importa el tamaño. Incluso es sensible!"
+
+#: core/options/framework/core/inc/welcome.php:328
+msgid "Change the Number of Columns"
+msgstr "Cambie el número de columnas"
+
+#: core/options/framework/core/inc/welcome.php:329
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+"Usted puede cambiar fácilmente el número de columnas mediante la adición de "
+"las columnas de parámetro = \"x \":"
+
+#: core/options/framework/core/inc/welcome.php:332
+msgid "Additional Display Options"
+msgstr "Mostrar opciones adicionales"
+
+#: core/options/framework/core/inc/welcome.php:333
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+"Las rejillas de productos se pueden personalizar de la manera que desea y "
+"hay <a href=\"%s\"> documentación extensa </a> para ayudarle."
+
+#: core/options/framework/core/inc/welcome.php:338
+msgid "Purchase Buttons Anywhere"
+msgstr "Compra Botones Anywhere"
+
+#: core/options/framework/core/inc/welcome.php:344
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr "El <em> [purchase_link] </ em> Código corto"
+
+#: core/options/framework/core/inc/welcome.php:345
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+"Con fácilmente accesibles códigos cortos para mostrar los botones de compra, "
+"se puede añadir un Comprar ahora o botón Añadir al carro de cualquier "
+"producto en cualquier lugar en su sitio en cuestión de segundos."
+
+#: core/options/framework/core/inc/welcome.php:347
+msgid "Buy Now Buttons"
+msgstr "Buy Now Buttons"
+
+#: core/options/framework/core/inc/welcome.php:348
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+"Botones de compra pueden comportarse como sea Añadir a la cesta O Compra Ya "
+"botones. Con botones Comprar ahora los clientes se toman directamente a "
+"PayPal, dándoles la experiencia de compra más fricción posible."
+
+#: core/options/framework/core/inc/welcome.php:354
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: core/options/framework/core/inc/welcome.php:358
+msgid "Phenomenal Support"
+msgstr "Soporte fenomenal"
+
+#: core/options/framework/core/inc/welcome.php:359
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+"Hacemos todo lo posible para proporcionar el mejor apoyo que podamos. Si "
+"usted encuentra un problema o tiene alguna pregunta, publicar una pregunta "
+"en el <a href=\"https://easydigitaldownloads.com/support\"> foros de soporte "
+"</a>."
+
+#: core/options/framework/core/inc/welcome.php:361
+msgid "Need Even Faster Support?"
+msgstr "Incluso más rápido ¿Necesitas ayuda?"
+
+#: core/options/framework/core/inc/welcome.php:362
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+"Nuestros <a href=\"https://easydigitaldownloads.com/support/pricing/\"> "
+"foros de Soporte Prioritario </a> están allí para los clientes que necesitan "
+"más rápida y / o más de asistencia en profundidad."
+
+#: core/options/framework/core/inc/welcome.php:368
+msgid "Stay Up to Date"
+msgstr "Manténgase al día"
+
+#: core/options/framework/core/inc/welcome.php:372
+msgid "Get Notified of Extension Releases"
+msgstr "Informarte de Extensión Releases"
+
+#: core/options/framework/core/inc/welcome.php:373
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+"Las nuevas extensiones que hacen que Easy Digital Descargas aún más poderosa "
+"se ​​liberan casi cada semana. Suscríbete al boletín de noticias para estar al "
+"día con nuestros últimos lanzamientos. <a href=\"http://eepurl.com/kaerz\" "
+"target=\"_blank\"> Registrarse ahora </a> para garantizar que no se pierda "
+"una liberación!"
+
+#: core/options/framework/core/inc/welcome.php:375
+msgid "Get Alerted About New Tutorials"
+msgstr "Consigue Alertados Sobre Nuevos Tutoriales"
+
+#: core/options/framework/core/inc/welcome.php:376
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\"> Registrarse ahora </"
+"a> oír hablar de los últimos comunicados de tutoriales que explican cómo "
+"tomar Easy Digital Descargas más."
+
+#: core/options/framework/core/inc/welcome.php:382
+msgid "Extensions for Everything"
+msgstr "Extensiones para Todo"
+
+#: core/options/framework/core/inc/welcome.php:386
+msgid "Over 250 Extensions"
+msgstr "Más de 250 extensiones"
+
+#: core/options/framework/core/inc/welcome.php:387
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+"Plugins Add-on están disponibles que se extienden en gran medida la "
+"funcionalidad por defecto de Easy Digital Downloads. Existen extensiones "
+"para los procesadores de pago, como la raya y PayPal, extensiones para "
+"integraciones boletín, y muchos, muchos más."
+
+#: core/options/framework/core/inc/welcome.php:389
+msgid "Visit the Extension Store"
+msgstr "Visita la tienda de Extensión"
+
+#: core/options/framework/core/inc/welcome.php:390
+msgid ""
+"<a href=\"https://easydigitaldownloads.com/extensions\" target=\"_blank"
+"\">The Extensions store</a> has a list of all available extensions, "
+"including convenient category filters so you can find exactly what you are "
+"looking for."
+msgstr ""
+"<a href=\"https://easydigitaldownloads.com/extensions\" target=\"_blank\"> "
+"La tienda de extensiones </a> tiene una lista de todas las extensiones "
+"disponibles, incluyendo convenientes filtros de categorías para que puedas "
+"encontrar exactamente lo que busca."
+
+#: core/options/framework/core/inc/welcome.php:416
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+"Redux Marco es creado por un equipo mundial de desarrolladores que <algo "
+"ingenioso aquí>"
+
+#: core/options/framework/core/inc/welcome.php:436
+msgid "No valid changlog was found."
+msgstr ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+
+#: core/options/framework/core/inc/welcome.php:474
+msgid "View %s"
+msgstr "Ver% s"
+
+#: core/options/settings/appearence.php:4
+msgid "Appearence"
+msgstr "apariencia"
+
+#: core/options/settings/appearence.php:11
+msgid "Layout Style"
+msgstr "Estilo de diseño"
+
+#: core/options/settings/appearence.php:12
+msgid "Choose boxed or full page mode"
+msgstr "Elija el modo de página completa en caja o"
+
+#: core/options/settings/appearence.php:14
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: core/options/settings/appearence.php:15
+msgid "Boxed"
+msgstr "en caja"
+
+#: core/options/settings/appearence.php:23
+msgid "Body Background"
+msgstr "Antecedentes Cuerpo"
+
+#: core/options/settings/appearence.php:24
+msgid "Body background with image, color, etc."
+msgstr "Fondo con la imagen del cuerpo, el color, etc."
+
+#: core/options/settings/appearence.php:25
+msgid "Will be used if you choose a boxed layout."
+msgstr "Se utilizará si elige un diseño de caja."
+
+#: core/options/settings/appearence.php:33
+msgid "Theme colors"
+msgstr "colores temáticos"
+
+#: core/options/settings/appearence.php:34
+msgid "Select one of 10 predefined theme colors."
+msgstr "Seleccione uno de los 10 colores temáticos predefinidos."
+
+#: core/options/settings/appearence.php:85
+msgid "Use custom color?"
+msgstr "Utilizar color personalizado?"
+
+#: core/options/settings/appearence.php:86
+msgid "Choose you own custom color."
+msgstr "Elija usted el propietario de color personalizado."
+
+#: core/options/settings/appearence.php:98
+#: core/shortcodes/shortcodes-mapper.php:328
+msgid "Custom Color"
+msgstr "color personalizado"
+
+#: core/options/settings/appearence.php:99
+msgid "You can define a new custom color for the theme  scheme."
+msgstr "Puede definir un nuevo color personalizado para el esquema de tema."
+
+#: core/options/settings/appearence.php:108
+msgid "Footer Skin"
+msgstr "Pie de página de la piel"
+
+#: core/options/settings/appearence.php:109
+#: core/options/settings/footer.php:12
+msgid "You can choose how many columns you want in footer."
+msgstr ""
+"Usted puede elegir el número de columnas que desee en el pie de página."
+
+#: core/options/settings/appearence.php:121
+msgid "Upload Favicon"
+msgstr "Subir Favicon"
+
+#: core/options/settings/appearence.php:122
+msgid "Upload a 16px x 16px png/gif/ico icon"
+msgstr "Sube un x 16px png / gif / icono ico 16px"
+
+#: core/options/settings/appearence.php:130
+msgid "Apple iPhone Icon"
+msgstr "Apple iPhone Icono"
+
+#: core/options/settings/appearence.php:131
+msgid "Upload a 57px x 57px png/gif/ico icon for Classic iPhone"
+msgstr "Sube un x 57px png icono / gif / ico 57px para el iPhone Classic"
+
+#: core/options/settings/appearence.php:139
+msgid "Apple iPhone Retina Icon"
+msgstr "Apple iPhone Icono Retina"
+
+#: core/options/settings/appearence.php:140
+msgid "Upload a 114px x 114px png/gif/ico icon for Retina iPhone"
+msgstr "Sube un icono de 114px x 114px png / gif / ico para el iPhone Retina"
+
+#: core/options/settings/appearence.php:148
+msgid "Apple iPad Icon"
+msgstr "Apple iPad Icon"
+
+#: core/options/settings/appearence.php:149
+msgid "Upload a 72px x 72px png/gif/ico icon for Classic iPad"
+msgstr "Sube un x 72px png icono / gif / ico 72px para iPad Clásico"
+
+#: core/options/settings/appearence.php:157
+msgid "Apple iPad Retina Icon"
+msgstr "IPad Retina Icono"
+
+#: core/options/settings/appearence.php:158
+msgid "Upload a 144px x 144px png/gif/ico icon for Retina iPad"
+msgstr "Sube un icono de 144px x 144px png / gif / ico para Retina del iPad"
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr "Blog"
+
+#: core/options/settings/blog.php:11
+msgid "Blog Sidebar Position"
+msgstr "Blog Sidebar Posición"
+
+#: core/options/settings/blog.php:12
+msgid "Select a sidebar position for blog pages."
+msgstr "Seleccione una posición de la barra lateral de las páginas del blog."
+
+#: core/options/settings/blog.php:24
+msgid "Blog Sidebar Widgets Area"
+msgstr "Blog Sidebar Widgets Área"
+
+#: core/options/settings/blog.php:25
+msgid "Select widgets area for blog pages."
+msgstr "Seleccione área widgets para las páginas del blog."
+
+#: core/options/settings/blog.php:33
+msgid "Blog Layout."
+msgstr "Blog Layout."
+
+#: core/options/settings/blog.php:34
+msgid "Select layout for blog page."
+msgstr "Seleccione el diseño de página del blog."
+
+#: core/options/settings/blog.php:36
+msgid "Classic"
+msgstr "clásico"
+
+#: core/options/settings/blog.php:37
+msgid "Medium"
+msgstr "medio"
+
+#: core/options/settings/blog.php:45
+msgid "Social Share Buttons"
+msgstr "Acciones Sociales Botones"
+
+#: core/options/settings/blog.php:46
+msgid "Enable/Disable social share buttons for a single post."
+msgstr "Activar / Desactivar botones sociales para un solo puesto."
+
+#: core/options/settings/blog.php:57
+msgid "Post Social Buttons"
+msgstr "Botones Publicar Sociales"
+
+#: core/options/settings/blog.php:58
+msgid "Choose what buttons you need to show on a single post."
+msgstr "Elija lo botones que necesita para mostrar en un solo puesto."
+
+#: core/options/settings/footer.php:4
+msgid "Footer"
+msgstr "pie de página"
+
+#: core/options/settings/footer.php:11
+msgid "Footer Layout"
+msgstr "Pie de página Layout"
+
+#: core/options/settings/footer.php:23
+msgid "Copytight Text"
+msgstr "Texto Copytight"
+
+#: core/options/settings/footer.php:24
+msgid "Place here your copyright. HTML tags are allowed."
+msgstr "Coloque aquí sus derechos de autor. Se permiten etiquetas HTML."
+
+#: core/options/settings/header.php:4
+msgid "Header"
+msgstr "encabezamiento"
+
+#: core/options/settings/header.php:12
+msgid "Custom Logo"
+msgstr "Logotipo personalizado"
+
+#: core/options/settings/header.php:14
+msgid "Upload your logo."
+msgstr "Sube tu logotipo."
+
+#: core/options/settings/header.php:22
+msgid "Custom Retina Logo"
+msgstr "Custom Retina Logo"
+
+#: core/options/settings/header.php:24
+msgid "Upload your retina logo."
+msgstr "Sube el logotipo de su retina."
+
+#: core/options/settings/header.php:31
+msgid "Use sticky menu?"
+msgstr "Utilice el menú pegajoso?"
+
+#: core/options/settings/header.php:42
+msgid "Display Contacts at the Top?"
+msgstr "Mostrar Contactos en la cima?"
+
+#: core/options/settings/header.php:55
+msgid "Street Address"
+msgstr "Dirección"
+
+#: core/options/settings/header.php:56
+msgid "Example: 455 Martinson, Los Angeles"
+msgstr "Ejemplo: 455 Martinson, de Los Ángeles"
+
+#: core/options/settings/header.php:63
+msgid "Phone Number"
+msgstr "número de teléfono"
+
+#: core/options/settings/header.php:64
+msgid "Example: 8 (043) 567 - 89 - 30"
+msgstr "Ejemplo: 8 (043) 567 - 89-30"
+
+#: core/options/settings/header.php:65
+msgid "Please use valid numbers only"
+msgstr "Utilice sólo los números válidos"
+
+#: core/options/settings/header.php:73
+msgid "Example: support@email.com"
+msgstr "Ejemplo: support@email.com"
+
+#: core/options/settings/other.php:4
+msgid "Other"
+msgstr "Otro"
+
+#: core/options/settings/other.php:12
+msgid "Contact Form E-mail"
+msgstr "Formulario de contacto E-mail"
+
+#: core/options/settings/other.php:13
+msgid "Your email(s) for contact form widget."
+msgstr "Su correo electrónico (s) de widget de formulario de contacto."
+
+#: core/options/settings/other.php:14
+msgid "Add more email addresses"
+msgstr "Su correo electrónico (s) de widget de formulario de contacto...."
+
+#: core/options/settings/other.php:21
+msgid "Show WordPress Admin Bar?"
+msgstr "Mostrar WordPress admin Bar?"
+
+#: core/options/settings/other.php:32
+msgid "Google Analytics Tracking Code"
+msgstr "Google Analytics código de seguimiento"
+
+#: core/options/settings/other.php:33
+msgid ""
+"Enable/Disable Google Analytics for your website. If you enable it, just add "
+"your Google Analytics Property ID into the textfield to track your site`s "
+"activity."
+msgstr ""
+"Activar / Desactivar Google Analytics para su sitio web. Si lo habilita, "
+"sólo tiene que añadir su Google Analytics ID Propiedad en el campo de texto "
+"para el seguimiento de su actividad site`s."
+
+#: core/options/settings/other.php:44
+msgid "Google Analytics Property ID"
+msgstr "Google Analytics ID Propiedad"
+
+#: core/options/settings/other.php:45
+msgid ""
+"Place here Google Analytics Propery ID. It should look like `UA-XXXXX-X` and "
+"you should find it inside your Google Analytics Dashboard."
+msgstr ""
+"Coloque aquí Google Analytics Propery ID. Debe quedar como `UA-XXXXX-x` y "
+"usted debe encontrar dentro de su Google Analytics Dashboard."
+
+#: core/options/settings/other.php:52
+msgid "Show Breadcrumbs?"
+msgstr "Mostrar las migas?"
+
+#: core/options/settings/other.php:53
+msgid "Show Breadcrumbs on top of the pages?"
+msgstr "Mostrar las migas en la parte superior de las páginas?"
+
+#: core/options/settings/other.php:64
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: core/options/settings/other.php:65
+msgid "Paste your CSS code her."
+msgstr "Pegue el código CSS ella."
+
+#: core/options/settings/other.php:76
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+#: core/options/settings/other.php:77
+msgid "Paste your JavaScript code here."
+msgstr "Pegue el código JavaScript aquí."
+
+#: core/options/settings/page.php:4
+msgid "Page"
+msgstr "página"
+
+#: core/options/settings/page.php:11
+msgid "Page Sidebar Position"
+msgstr "Página Sidebar Posición"
+
+#: core/options/settings/page.php:12
+msgid "Select a sidebar position for pages."
+msgstr "Seleccione una posición de la barra lateral de las páginas."
+
+#: core/options/settings/page.php:24
+msgid "Page Sidebar Widgets Area"
+msgstr "Página Sidebar Widgets Área"
+
+#: core/options/settings/page.php:25
+msgid "Select widgets area for pages."
+msgstr "Área Seleccionar widgets para páginas."
+
+#: core/options/settings/page.php:33
+msgid "Show comments in Page?"
+msgstr "Mostrar comentarios en Página?"
+
+#: core/options/settings/portfolio.php:12
+msgid "Portfolio Layout"
+msgstr "Portafolio de diseño"
+
+#: core/options/settings/portfolio.php:13
+msgid "Select layout for portfolio single item."
+msgstr "Seleccionar diseño de la cartera cada elemento."
+
+#: core/options/settings/portfolio.php:15
+msgid "Half"
+msgstr "mitad"
+
+#: core/options/settings/portfolio.php:16
+msgid "Wide"
+msgstr "ancho"
+
+#: core/options/settings/portfolio.php:24
+msgid "Related items quantity"
+msgstr "Cantidad Artículos relacionados"
+
+#: core/options/settings/portfolio.php:25
+msgid "How many portfolio items will be shown on portfolio single page."
+msgstr ""
+"¿Cuántos artículos cartera se mostrará en la cartera de una sola página."
+
+#: core/options/settings/portfolio.php:36
+msgid "Portfolio items quantity"
+msgstr "Cantidad Artículos de parque"
+
+#: core/options/settings/portfolio.php:37
+msgid "How many portfolio items will be shown on portfolio page."
+msgstr "¿Cuántos artículos cartera se mostrará en la página de la cartera."
+
+#: core/options/settings/portfolio.php:48
+msgid "Portfolio Layout."
+msgstr "Portafolio Diseño."
+
+#: core/options/settings/portfolio.php:49
+msgid "Select layout for portfolio pages."
+msgstr "Seleccionar diseño para las páginas de la cartera."
+
+#: core/options/settings/portfolio.php:51
+msgid "2 Columns"
+msgstr "2 Columnas"
+
+#: core/options/settings/portfolio.php:52
+msgid "3 Columns"
+msgstr "3 Columnas"
+
+#: core/options/settings/portfolio.php:53
+msgid "4 Columns"
+msgstr "4 Columnas"
+
+#: core/options/settings/portfolio.php:54
+#: core/shortcodes/shortcodes-mapper.php:198
+msgid "Fullwidth"
+msgstr "de ancho completo"
+
+#: core/options/settings/sidebars.php:6
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: core/options/settings/sidebars.php:12
+msgid "Sidebars Generator"
+msgstr "Barras laterales Generador"
+
+#: core/options/settings/sidebars.php:14
+msgid "Add Sidebar"
+msgstr "Añadir Sidebar"
+
+#: core/options/settings/sidebars.php:15
+msgid "Add unlimited custom sidebars to you site."
+msgstr "Añadir barras laterales personalizados ilimitado a su sitio."
+
+#: core/options/settings/social.php:5
+#: core/shortcodes/shortcodes-mapper.php:128
+#: core/shortcodes/shortcodes-mapper.php:447
+msgid "Social"
+msgstr "sociales"
+
+#: core/options/settings/social.php:11
+msgid "Multi Social Buttons"
+msgstr "Botones Multi Sociales"
+
+#: core/options/settings/social.php:12
+msgid "Use predifined or dinamically defined social buttons for Team Members"
+msgstr ""
+"Utilice los botones sociales predifined o dinámicamente definidos para los "
+"miembros del equipo"
+
+#: core/options/settings/social.php:13
+msgid "Caution: dinamically defined social buttons are experimental."
+msgstr ""
+"Precaución: Botones sociales dinámicamente definidas son experimentales."
+
+#: core/options/settings/social.php:25
+msgid "RSS Feed URL"
+msgstr "RSS Feed URL"
+
+#: core/options/settings/social.php:26
+msgid "If you don't want to show RSS icon, live this field blank."
+msgstr "Si no desea mostrar el icono de RSS, vivir este campo en blanco."
+
+#: core/options/settings/social.php:33
+msgid "Header Social Icons"
+msgstr "Encabezado Iconos Sociales"
+
+#: core/options/settings/social.php:34
+msgid "Enable/Disable social icons in header."
+msgstr "Activar / Desactivar iconos sociales en la cabecera."
+
+#: core/options/settings/social.php:46
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: core/options/settings/social.php:54
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: core/options/settings/social.php:62
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: core/options/settings/social.php:70
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: core/options/settings/social.php:78
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: core/options/settings/social.php:86
+msgid "Vk URL"
+msgstr "Vk URL"
+
+#: core/options/settings/social.php:94
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: core/options/settings/social.php:102
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: core/options/settings/social.php:110
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: core/options/settings/social.php:118
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: core/options/settings/social.php:126
+msgid "Foursquare URL"
+msgstr "Foursquare URL"
+
+#: core/options/settings/social.php:134
+msgid "Apple URL"
+msgstr ""
+
+#: core/options/settings/social.php:142
+msgid "Android URL"
+msgstr ""
+
+#: core/options/settings/social.php:151
+msgid "Windows URL"
+msgstr ""
+
+#: core/options/settings/social.php:159
+msgid "Behance URL"
+msgstr ""
+
+#: core/options/settings/social.php:167
+msgid "Dribbble URL"
+msgstr ""
+
+#: core/options/settings/social.php:175
+msgid "Delicious URL"
+msgstr ""
+
+#: core/options/settings/social.php:183
+msgid "Skype URL"
+msgstr ""
+
+#: core/options/settings/social.php:191
+msgid "GitHub URL"
+msgstr ""
+
+#: core/options/settings/social.php:199
+msgid "Vimeo URL"
+msgstr ""
+
+#: core/options/settings/update.php:10 core/options/settings/update.php:33
+#: core/options/settings/update.php:56 core/options/settings/update.php:78
+msgid "Updates"
+msgstr "Actualizaciones"
+
+#: core/options/settings/update.php:16
+msgid "All Ok! Your theme updates is configured correctly"
+msgstr "Todo Ok! Sus actualizaciones tema está configurado correctamente"
+
+#: core/options/settings/update.php:21
+msgid ""
+"To change your settings, visit <a href=\"?page=envato-wordpress-toolkit"
+"\">this page</a>."
+msgstr ""
+"Para cambiar la configuración, visite <a href=\"?page=envato-wordpress-"
+"toolkit\"> esta página </a>."
+
+#: core/options/settings/update.php:39 core/options/settings/update.php:62
+msgid "Your Envato Keys is not set!"
+msgstr "Sus Envato llaves no está ajustado!"
+
+#: core/options/settings/update.php:43 core/options/settings/update.php:66
+msgid ""
+"To enable update notifications, please visit <a href=\"?page=envato-"
+"wordpress-toolkit\">this page</a>."
+msgstr ""
+"Para activar las notificaciones de actualización, visite <a href=\"?"
+"page=envato-wordpress-toolkit\"> esta página </a>."
+
+#: core/options/settings/update.php:84
+msgid "Envato WordPress Toolkit plugin does not installed or it is not active."
+msgstr "Envato WordPress Toolkit plugin no instalado o no está activo."
+
+#: core/shortcodes/shortcodes-class.php:128 format-audio.php:51
+#: format-gallery.php:61 format-image.php:31 format-link.php:51
+#: format-quote.php:44 format-standard.php:31 format-video.php:41
+#: single-attachment.php:75
+msgid "in"
+msgstr "en"
+
+#: core/shortcodes/shortcodes-class.php:150 format-audio.php:67
+#: format-gallery.php:77 format-image.php:47 format-link.php:67
+#: format-quote.php:60 format-standard.php:47 format-video.php:57
+msgid "Read More"
+msgstr "leer más"
+
+#: core/shortcodes/shortcodes-class.php:467
+msgid "profile"
+msgstr "perfil"
+
+#: core/shortcodes/shortcodes-class.php:520
+msgid "You didn't select any image."
+msgstr "No ha seleccionado ninguna imagen."
+
+#: core/shortcodes/shortcodes-mapper.php:60
+msgid "You sould create some posts before you can use this widget"
+msgstr "Usted sould crear algunos puestos antes de poder utilizar este widget"
+
+#: core/shortcodes/shortcodes-mapper.php:64
+msgid "Post Box"
+msgstr "post Box"
+
+#: core/shortcodes/shortcodes-mapper.php:67
+#: core/shortcodes/shortcodes-mapper.php:106
+#: core/shortcodes/shortcodes-mapper.php:128
+#: core/shortcodes/shortcodes-mapper.php:367
+#: core/shortcodes/shortcodes-mapper.php:415
+#: core/shortcodes/shortcodes-mapper.php:447
+#: core/shortcodes/shortcodes-mapper.php:479
+#: core/shortcodes/shortcodes-mapper.php:597
+#: core/shortcodes/shortcodes-mapper.php:661
+#: core/shortcodes/shortcodes-mapper.php:697
+#: core/shortcodes/shortcodes-mapper.php:768
+msgid "Exclusive"
+msgstr "exclusivo"
+
+#: core/shortcodes/shortcodes-mapper.php:67
+#: core/shortcodes/shortcodes-mapper.php:106
+#: core/shortcodes/shortcodes-mapper.php:175
+#: core/shortcodes/shortcodes-mapper.php:226
+#: core/shortcodes/shortcodes-mapper.php:283
+#: core/shortcodes/shortcodes-mapper.php:367
+#: core/shortcodes/shortcodes-mapper.php:415
+#: core/shortcodes/shortcodes-mapper.php:597
+#: core/shortcodes/shortcodes-mapper.php:661
+#: core/shortcodes/shortcodes-mapper.php:697
+#: core/shortcodes/shortcodes-mapper.php:768
+msgid "Content"
+msgstr "contenido"
+
+#: core/shortcodes/shortcodes-mapper.php:71
+msgid "Select Posts Quantity"
+msgstr "Seleccione Mensajes Cantidad"
+
+#: core/shortcodes/shortcodes-mapper.php:73
+msgid "How many posts to show in posts box"
+msgstr "¿Cuántos mensajes para mostrar mensajes en la caja"
+
+#: core/shortcodes/shortcodes-mapper.php:78
+msgid "Select Posts Category"
+msgstr "Seleccione Mensajes Categoría"
+
+#: core/shortcodes/shortcodes-mapper.php:80
+msgid ""
+"You sould create some categorise & asosiate them with posts before you can "
+"use this option."
+msgstr ""
+"Usted sould crear algunos categorizar y asosiate ellos con mensajes antes de "
+"poder utilizar esta opción."
+
+#: core/shortcodes/shortcodes-mapper.php:85
+#: core/shortcodes/shortcodes-mapper.php:209
+#: core/shortcodes/shortcodes-mapper.php:268
+#: core/shortcodes/shortcodes-mapper.php:399
+#: core/shortcodes/shortcodes-mapper.php:430
+#: core/shortcodes/shortcodes-mapper.php:561
+#: core/shortcodes/shortcodes-mapper.php:625
+#: core/shortcodes/shortcodes-mapper.php:680
+msgid "Css"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:87
+#: core/shortcodes/shortcodes-mapper.php:211
+#: core/shortcodes/shortcodes-mapper.php:270
+#: core/shortcodes/shortcodes-mapper.php:401
+#: core/shortcodes/shortcodes-mapper.php:432
+#: core/shortcodes/shortcodes-mapper.php:563
+#: core/shortcodes/shortcodes-mapper.php:627
+#: core/shortcodes/shortcodes-mapper.php:682
+msgid "Design options"
+msgstr "Las opciones de diseño"
+
+#: core/shortcodes/shortcodes-mapper.php:101
+#: core/widgets/widget-contact-form.php:10
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: core/shortcodes/shortcodes-mapper.php:107
+msgid "Contact form for your site."
+msgstr "Formulario de contacto para su sitio."
+
+#: core/shortcodes/shortcodes-mapper.php:113
+msgid "Email will be sent to "
+msgstr "Correo electrónico será enviado a"
+
+#: core/shortcodes/shortcodes-mapper.php:113
+#: core/widgets/widget-contact-form.php:81
+msgid "and other addresses that you have chosen."
+msgstr "y otras direcciones que usted ha elegido."
+
+#: core/shortcodes/shortcodes-mapper.php:113
+msgid "Change email(s)"
+msgstr "Cambio de correo electrónico (s)"
+
+#: core/shortcodes/shortcodes-mapper.php:123
+msgid "Twitter Feed"
+msgstr "Twitter RSS"
+
+#: core/shortcodes/shortcodes-mapper.php:129
+msgid "Twitter Feed with last tweets."
+msgstr "Feed de Twitter con los últimos tweets."
+
+#: core/shortcodes/shortcodes-mapper.php:139
+msgid "Twitter Username"
+msgstr "Twitter Nombre de usuario"
+
+#: core/shortcodes/shortcodes-mapper.php:141
+msgid "Ex: @envato, Ph0enixTeam"
+msgstr "Ex:envato, Ph0enixTeam"
+
+#: core/shortcodes/shortcodes-mapper.php:145
+msgid "Tweets to Show"
+msgstr "Tweets to Show"
+
+#: core/shortcodes/shortcodes-mapper.php:147
+msgid "Select how many tweets to show."
+msgstr "Seleccione el número de tweets a mostrar."
+
+#: core/shortcodes/shortcodes-mapper.php:153
+msgid "Layout"
+msgstr "disposición"
+
+#: core/shortcodes/shortcodes-mapper.php:155
+msgid "Select Twitter Feed layout."
+msgstr "Seleccione el diseño de alimentación de Twitter."
+
+#: core/shortcodes/shortcodes-mapper.php:158
+#: core/shortcodes/shortcodes-mapper.php:777
+msgid "Box"
+msgstr "caja"
+
+#: core/shortcodes/shortcodes-mapper.php:170
+msgid "Row"
+msgstr "fila"
+
+#: core/shortcodes/shortcodes-mapper.php:176
+msgid "Place content elements inside the row"
+msgstr "Coloque los elementos de contenido dentro de la fila"
+
+#: core/shortcodes/shortcodes-mapper.php:180
+msgid "ID Name for Navigation"
+msgstr "ID Nombre de la navegación"
+
+#: core/shortcodes/shortcodes-mapper.php:182
+msgid ""
+"If this row wraps the content of one of your sections, set an ID. You can "
+"then use it for navigation."
+msgstr ""
+"Si esta fila se ajusta el contenido de una de sus secciones, establecer un "
+"ID. A continuación, puede utilizarlo para la navegación."
+
+#: core/shortcodes/shortcodes-mapper.php:188
+msgid "Select font color. "
+msgstr "Seleccionar color de fuente."
+
+#: core/shortcodes/shortcodes-mapper.php:194
+msgid "You can specify whether the row is displayed fullwidth or in container."
+msgstr ""
+"Puede especificar si la fila se visualiza anchura completa o en contenedor."
+
+#: core/shortcodes/shortcodes-mapper.php:197
+msgid "In Container"
+msgstr "En Envase"
+
+#: core/shortcodes/shortcodes-mapper.php:203
+#: core/shortcodes/shortcodes-mapper.php:262
+#: core/shortcodes/shortcodes-mapper.php:351
+msgid "Extra class name"
+msgstr "Nombre de la clase extra"
+
+#: core/shortcodes/shortcodes-mapper.php:205
+#: core/shortcodes/shortcodes-mapper.php:264
+#: core/shortcodes/shortcodes-mapper.php:353
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Si desea estilo particular elemento de contenido diferente, a continuación, "
+"utilizar este campo para añadir un nombre de clase y, a continuación se "
+"refieren a ella en su archivo css."
+
+#: core/shortcodes/shortcodes-mapper.php:222
+msgid "Text Block"
+msgstr "Bloque de Texto"
+
+#: core/shortcodes/shortcodes-mapper.php:227
+msgid "A block of text with WYSIWYG editor"
+msgstr "Un bloque de texto con el editor WYSIWYG"
+
+#: core/shortcodes/shortcodes-mapper.php:234
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+"<p> Soy bloque de texto. Haga clic en el botón Editar para cambiar este "
+"texto. Lorem ipsum dolor sit amet, elit adipiscing consectetur. Ut elit "
+"Tellus, Luctus ncp Mattis ullamcorper, leo dapibus pulvinar. </ P>"
+
+#: core/shortcodes/shortcodes-mapper.php:241
+msgid "Show dropcaps"
+msgstr "Mostrar dropcaps"
+
+#: core/shortcodes/shortcodes-mapper.php:242
+msgid "Show dropcaps to first letter?"
+msgstr "Mostrar dropcaps a primera letra?"
+
+#: core/shortcodes/shortcodes-mapper.php:247
+msgid "CSS Animation"
+msgstr "CSS Animación"
+
+#: core/shortcodes/shortcodes-mapper.php:251
+msgid "No"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:252
+msgid "Top to bottom"
+msgstr "De arriba a abajo"
+
+#: core/shortcodes/shortcodes-mapper.php:253
+msgid "Bottom to top"
+msgstr "De abajo a arriba"
+
+#: core/shortcodes/shortcodes-mapper.php:254
+msgid "Left to right"
+msgstr "De izquierda a derecha"
+
+#: core/shortcodes/shortcodes-mapper.php:255
+msgid "Right to left"
+msgstr "De derecha a izquierda"
+
+#: core/shortcodes/shortcodes-mapper.php:256
+msgid "Appear from center"
+msgstr "Aparecen desde el centro"
+
+#: core/shortcodes/shortcodes-mapper.php:258
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+"Seleccione el tipo de animación si desea que este elemento a ser animado "
+"cuando éste entre en los navegadores ventana gráfica. Nota: Sólo funciona en "
+"los navegadores modernos."
+
+#: core/shortcodes/shortcodes-mapper.php:280
+msgid "Progress Bar"
+msgstr "barra de progreso"
+
+#: core/shortcodes/shortcodes-mapper.php:284
+msgid "Animated progress bar"
+msgstr "Barra de progreso animada"
+
+#: core/shortcodes/shortcodes-mapper.php:288
+msgid "Widget title"
+msgstr "título Widget"
+
+#: core/shortcodes/shortcodes-mapper.php:290
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+"Introduzca el texto que se utilizará como título del widget. Dejar en blanco "
+"si no se necesita título."
+
+#: core/shortcodes/shortcodes-mapper.php:294
+msgid "Graphic values"
+msgstr "valores gráficos"
+
+#: core/shortcodes/shortcodes-mapper.php:296
+msgid ""
+"Input graph values, titles and color here. Divide values with linebreaks "
+"(Enter). Example: 90|Development|#e75956"
+msgstr ""
+"Los valores de entrada de gráficos, títulos y color aquí. Divide los valores "
+"con saltos de línea (Enter). Ejemplo: 90 | Desarrollo | # e75956"
+
+#: core/shortcodes/shortcodes-mapper.php:303
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+"Introduzca las unidades de medida (si es necesario) Ej. %, Px, puntos, etc. "
+"Gráfico valor y la unidad se añaden al título del gráfico."
+
+#: core/shortcodes/shortcodes-mapper.php:307
+msgid "Label Loction"
+msgstr "Etiqueta Ubicación"
+
+#: core/shortcodes/shortcodes-mapper.php:310
+msgid "Inside bar"
+msgstr "bar interior"
+
+#: core/shortcodes/shortcodes-mapper.php:311
+msgid "On top of the bar"
+msgstr "En la parte superior de la barra"
+
+#: core/shortcodes/shortcodes-mapper.php:313
+#: core/shortcodes/shortcodes-mapper.php:330
+msgid "Select bar background color."
+msgstr "Seleccionar color de la barra de fondo."
+
+#: core/shortcodes/shortcodes-mapper.php:318
+msgid "Bar color"
+msgstr "color de la barra"
+
+#: core/shortcodes/shortcodes-mapper.php:321
+msgid "Turquoise"
+msgstr "turquesa"
+
+#: core/shortcodes/shortcodes-mapper.php:322
+msgid "Blue"
+msgstr "azul"
+
+#: core/shortcodes/shortcodes-mapper.php:323
+msgid "Grey"
+msgstr "Gris"
+
+#: core/shortcodes/shortcodes-mapper.php:324
+msgid "Green"
+msgstr "verde"
+
+#: core/shortcodes/shortcodes-mapper.php:325
+msgid "Orange"
+msgstr "naranja"
+
+#: core/shortcodes/shortcodes-mapper.php:326
+msgid "Red"
+msgstr "Rojo"
+
+#: core/shortcodes/shortcodes-mapper.php:327
+msgid "Black"
+msgstr "negro"
+
+#: core/shortcodes/shortcodes-mapper.php:335
+msgid "Bar custom color"
+msgstr "Color de la barra personalizada"
+
+#: core/shortcodes/shortcodes-mapper.php:337
+msgid "Select custom background color for bars."
+msgstr "Seleccionar color de fondo de encargo para los bares."
+
+#: core/shortcodes/shortcodes-mapper.php:345
+msgid "Add Stripes?"
+msgstr "Añadir Stripes?"
+
+#: core/shortcodes/shortcodes-mapper.php:346
+msgid "Add animation? Will be visible with striped bars."
+msgstr "Añadir animación? Será visible con barras rayadas."
+
+#: core/shortcodes/shortcodes-mapper.php:364
+#: core/shortcodes/shortcodes-mapper.php:373
+msgid "Promo Title"
+msgstr "Promo Título"
+
+#: core/shortcodes/shortcodes-mapper.php:376
+msgid "Title text."
+msgstr "Texto Título."
+
+#: core/shortcodes/shortcodes-mapper.php:383
+msgid "Promo Subtitle"
+msgstr "Promo Subtítulo"
+
+#: core/shortcodes/shortcodes-mapper.php:385
+msgid "I am subtitle text. Click edit button to change this text."
+msgstr ""
+"Yo soy texto de los subtítulos. Haga clic en el botón Editar para cambiar "
+"este texto."
+
+#: core/shortcodes/shortcodes-mapper.php:386
+msgid "Sutitle text."
+msgstr "Texto Sutitle."
+
+#: core/shortcodes/shortcodes-mapper.php:393
+msgid "Hide Promo Line"
+msgstr "Ocultar Promo Línea"
+
+#: core/shortcodes/shortcodes-mapper.php:394
+msgid "Hide promo title line center dot?"
+msgstr "Ocultar título promocional punto central línea?"
+
+#: core/shortcodes/shortcodes-mapper.php:413
+msgid "Portfolio Grid"
+msgstr "Cartera de cuadrícula"
+
+#: core/shortcodes/shortcodes-mapper.php:417
+msgid "Portfolio items in grid view"
+msgstr "Artículos de parque en vista de cuadrícula"
+
+#: core/shortcodes/shortcodes-mapper.php:423
+msgid "Items per page"
+msgstr "Artículos por página"
+
+#: core/shortcodes/shortcodes-mapper.php:426
+msgid "Select how many items do you want to see in this block."
+msgstr ""
+"Seleccione el número de elementos es lo que quieres ver en este bloque."
+
+#: core/shortcodes/shortcodes-mapper.php:444
+msgid "Clients Carousel"
+msgstr "Los clientes del carrusel"
+
+#: core/shortcodes/shortcodes-mapper.php:448
+msgid "Animated carousel with images"
+msgstr "Carrusel animado con imágenes"
+
+#: core/shortcodes/shortcodes-mapper.php:452
+msgid "Images"
+msgstr "Imagenes"
+
+#: core/shortcodes/shortcodes-mapper.php:455
+msgid "Select images from media library."
+msgstr "Seleccione las imágenes de la biblioteca de medios."
+
+#: core/shortcodes/shortcodes-mapper.php:462
+msgid "Use popup?"
+msgstr "Utilice emergente?"
+
+#: core/shortcodes/shortcodes-mapper.php:463
+msgid "Show carousel pictures in popup?"
+msgstr "Mostrar imágenes en carrusel emergente?"
+
+#: core/shortcodes/shortcodes-mapper.php:476
+msgid "Interesting Facts"
+msgstr "Datos de Interés"
+
+#: core/shortcodes/shortcodes-mapper.php:480
+msgid "Some interesting facts with icons"
+msgstr "Algunos datos interesantes con iconos"
+
+#: core/shortcodes/shortcodes-mapper.php:484
+msgid "Icon"
+msgstr "icono"
+
+#: core/shortcodes/shortcodes-mapper.php:487
+msgid "Music"
+msgstr "Musica"
+
+#: core/shortcodes/shortcodes-mapper.php:488
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: core/shortcodes/shortcodes-mapper.php:489
+msgid "Mail"
+msgstr "correo"
+
+#: core/shortcodes/shortcodes-mapper.php:490
+msgid "Heart"
+msgstr "corazón"
+
+#: core/shortcodes/shortcodes-mapper.php:491
+msgid "Star"
+msgstr "estrella"
+
+#: core/shortcodes/shortcodes-mapper.php:492
+msgid "User"
+msgstr "usuario"
+
+#: core/shortcodes/shortcodes-mapper.php:493
+msgid "Videocam"
+msgstr "Videocam"
+
+#: core/shortcodes/shortcodes-mapper.php:494
+msgid "Camera"
+msgstr "cámara"
+
+#: core/shortcodes/shortcodes-mapper.php:495
+msgid "Photo"
+msgstr "foto"
+
+#: core/shortcodes/shortcodes-mapper.php:496
+msgid "Attach"
+msgstr "adjuntar"
+
+#: core/shortcodes/shortcodes-mapper.php:497
+msgid "Lock"
+msgstr "bloquear"
+
+#: core/shortcodes/shortcodes-mapper.php:498
+msgid "Eye"
+msgstr "Ojo"
+
+#: core/shortcodes/shortcodes-mapper.php:499 tag.php:18
+msgid "Tag"
+msgstr "etiqueta"
+
+#: core/shortcodes/shortcodes-mapper.php:500
+msgid "Thumbs Up"
+msgstr "Pulgares hacia arriba"
+
+#: core/shortcodes/shortcodes-mapper.php:501
+msgid "Pencil"
+msgstr "lápiz"
+
+#: core/shortcodes/shortcodes-mapper.php:502
+msgid "Comment"
+msgstr "comentario"
+
+#: core/shortcodes/shortcodes-mapper.php:503
+msgid "Location"
+msgstr "ubicación"
+
+#: core/shortcodes/shortcodes-mapper.php:504
+msgid "Cup"
+msgstr "taza"
+
+#: core/shortcodes/shortcodes-mapper.php:505
+msgid "Trash"
+msgstr "basura"
+
+#: core/shortcodes/shortcodes-mapper.php:506
+msgid "Doc"
+msgstr "Doc"
+
+#: core/shortcodes/shortcodes-mapper.php:507
+msgid "Note"
+msgstr " Nota"
+
+#: core/shortcodes/shortcodes-mapper.php:508
+msgid "Cog"
+msgstr "diente"
+
+#: core/shortcodes/shortcodes-mapper.php:509
+msgid "Params"
+msgstr "Parámetros"
+
+#: core/shortcodes/shortcodes-mapper.php:510
+msgid "Calendar"
+msgstr "calendario"
+
+#: core/shortcodes/shortcodes-mapper.php:511
+msgid "Sound"
+msgstr "Sonido"
+
+#: core/shortcodes/shortcodes-mapper.php:512
+msgid "Search"
+msgstr "búsqueda"
+
+#: core/shortcodes/shortcodes-mapper.php:513
+msgid "Lightbulb"
+msgstr "Bombilla"
+
+#: core/shortcodes/shortcodes-mapper.php:514
+msgid "Tv"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:515
+msgid "Desktop"
+msgstr "escritorio"
+
+#: core/shortcodes/shortcodes-mapper.php:516
+msgid "Mobile"
+msgstr "móvil"
+
+#: core/shortcodes/shortcodes-mapper.php:517
+msgid "Cd"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:518
+msgid "Inbox"
+msgstr "bandeja de entrada"
+
+#: core/shortcodes/shortcodes-mapper.php:519
+msgid "Globe"
+msgstr "globo"
+
+#: core/shortcodes/shortcodes-mapper.php:520
+msgid "Cloud"
+msgstr "nube"
+
+#: core/shortcodes/shortcodes-mapper.php:521
+msgid "Paper Plane"
+msgstr "avión de Papel"
+
+#: core/shortcodes/shortcodes-mapper.php:522
+msgid "Fire"
+msgstr "Fuego"
+
+#: core/shortcodes/shortcodes-mapper.php:523
+msgid "Graduation Cap"
+msgstr "casquillo de la graduación"
+
+#: core/shortcodes/shortcodes-mapper.php:524
+msgid "Megaphone"
+msgstr "megáfono"
+
+#: core/shortcodes/shortcodes-mapper.php:525
+msgid "Database"
+msgstr "base de datos"
+
+#: core/shortcodes/shortcodes-mapper.php:526
+msgid "Key"
+msgstr "Llave"
+
+#: core/shortcodes/shortcodes-mapper.php:527
+msgid "Beaker"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:528
+msgid "Truck"
+msgstr "camión"
+
+#: core/shortcodes/shortcodes-mapper.php:529
+msgid "Money"
+msgstr "dinero"
+
+#: core/shortcodes/shortcodes-mapper.php:530
+msgid "Food"
+msgstr "comida"
+
+#: core/shortcodes/shortcodes-mapper.php:531
+msgid "Shop"
+msgstr "tienda"
+
+#: core/shortcodes/shortcodes-mapper.php:532
+msgid "Diamond"
+msgstr "diamante"
+
+#: core/shortcodes/shortcodes-mapper.php:533
+msgid "T-Shirt"
+msgstr "Camiseta"
+
+#: core/shortcodes/shortcodes-mapper.php:534
+msgid "Wallet"
+msgstr "billetera"
+
+#: core/shortcodes/shortcodes-mapper.php:535
+msgid "Ok"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:536
+msgid "Clock"
+msgstr "reloj"
+
+#: core/shortcodes/shortcodes-mapper.php:538
+msgid "Select icon."
+msgstr "Icono ClockSelect."
+
+#: core/shortcodes/shortcodes-mapper.php:545
+msgid "Data"
+msgstr "datos"
+
+#: core/shortcodes/shortcodes-mapper.php:590
+msgid "You sould create some services before you can use this widget"
+msgstr ""
+"Usted sould crear algunos servicios antes de poder utilizar este widget"
+
+#: core/shortcodes/shortcodes-mapper.php:603
+msgid "Service Title"
+msgstr "Servicio Título"
+
+#: core/shortcodes/shortcodes-mapper.php:605
+msgid "Leave it blank to use your predefined service title."
+msgstr "Déjelo en blanco para usar el título de su servicio predefinido."
+
+#: core/shortcodes/shortcodes-mapper.php:609
+msgid "Select Servise"
+msgstr "Seleccione Servise"
+
+#: core/shortcodes/shortcodes-mapper.php:611
+msgid "You sould create some services before you can use this widget."
+msgstr ""
+"Usted sould crear algunos servicios antes de poder utilizar este widget."
+
+#: core/shortcodes/shortcodes-mapper.php:616
+msgid "Servise Layout"
+msgstr "diseño de Servicio"
+
+#: core/shortcodes/shortcodes-mapper.php:619
+msgid "Block"
+msgstr "bloque"
+
+#: core/shortcodes/shortcodes-mapper.php:620
+msgid "List"
+msgstr "lista"
+
+#: core/shortcodes/shortcodes-mapper.php:654
+msgid "You sould create some team members before you can use this widget"
+msgstr ""
+"Usted sould crear algunos miembros del equipo antes de poder utilizar este "
+"widget"
+
+#: core/shortcodes/shortcodes-mapper.php:667
+msgid "Team Member name"
+msgstr "Nombre del Miembro del Equipo"
+
+#: core/shortcodes/shortcodes-mapper.php:669
+msgid "Leave it blank to use your predefined name."
+msgstr "Déjelo en blanco para usar su nombre predefinido."
+
+#: core/shortcodes/shortcodes-mapper.php:673
+msgid "Select Team Member"
+msgstr "Seleccione Miembro del Equipo"
+
+#: core/shortcodes/shortcodes-mapper.php:675
+msgid "You sould create some team members before you can use this widget."
+msgstr ""
+"Usted sould crear algunos miembros del equipo antes de poder utilizar este "
+"widget."
+
+#: core/shortcodes/shortcodes-mapper.php:694
+msgid "Get In Touch"
+msgstr "Get In Touch"
+
+#: core/shortcodes/shortcodes-mapper.php:703
+msgid "Adress"
+msgstr "dirección"
+
+#: core/shortcodes/shortcodes-mapper.php:706
+msgid "Ex: \"Address: 455 Martinson, Los Angeles\""
+msgstr "Ej: \"Dirección: 455 Martinson, Los Ángeles \""
+
+#: core/shortcodes/shortcodes-mapper.php:712
+msgid "Phone"
+msgstr "teléfono"
+
+#: core/shortcodes/shortcodes-mapper.php:715
+msgid "Ex: \"Phone: 8 (043) 567 - 89 - 30\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:721
+msgid "Fax"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:724
+msgid "Ex: \"Fax: 8 (057) 149 - 24 - 64\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:730
+msgid "Skype"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:733
+msgid "Ex: \"Skype: companyname\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:742
+msgid ""
+"Your e-mail will be published with \"antispambot\" protection.<br/>Ex: \"E-"
+"mail: support@email.com\""
+msgstr ""
+"Tu e-mail será publicado con \" protección \"antispambot \" <br/> Ex:. \" E-"
+"mail: support@email.com \""
+
+#: core/shortcodes/shortcodes-mapper.php:748
+msgid "Weekend"
+msgstr "fin de semana"
+
+#: core/shortcodes/shortcodes-mapper.php:751
+msgid "Ex: \"Weekend: from 9 am to 6 pm\""
+msgstr "Ej: \"Fin de semana: 09 a.m.-6 p.m. \""
+
+#: core/shortcodes/shortcodes-mapper.php:769
+msgid "Displays all your testimonials."
+msgstr "Muestra todos sus testimonios."
+
+#: core/shortcodes/shortcodes-mapper.php:774
+msgid "Layout mode"
+msgstr "el modo de diseño"
+
+#: core/shortcodes/shortcodes-mapper.php:775
+msgid "Testimonials layout template."
+msgstr "Plantilla de diseño Testimonios."
+
+#: core/shortcodes/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "sección"
+
+#: core/shortcodes/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr "Sección vacía. Editar página para agregar contenido aquí."
+
+#: core/shortcodes/vc_templates/vc_button.php:10
+msgid "Text on the button"
+msgstr "Texto en el botón"
+
+#: core/shortcodes/vc_templates/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr "Text on the button"
+
+#: core/shortcodes/vc_templates/vc_item.php:9
+msgid "Item"
+msgstr "artículo"
+
+#: core/shortcodes/vc_templates/vc_posts_slider.php:152
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:181
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:202
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:203
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:219
+msgid "Permalink to %s"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_posts_slider.php:192
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:327
+msgid "Nothing found."
+msgstr "No encontraron nada."
+
+#: core/shortcodes/vc_templates/vc_tab.php:9
+msgid "Empty tab. Edit page to add content here."
+msgstr "Pestaña vacía. Editar página para agregar contenido aquí."
+
+#: core/shortcodes/vc_templates/vc_tabs.php:44
+msgid "Previous tab"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_tabs.php:44
+msgid "Next tab"
+msgstr "ficha Siguiente"
+
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:181
+msgid "Read more"
+msgstr "leer más"
+
+#: core/shortcodes/vc_templates/vc_tweetmeme.php:9
+msgid "Tweet"
+msgstr "Tweet"
+
+#: core/widgets/sidebars.php:24
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: core/widgets/sidebars.php:25
+msgid "This widgets area is used for blog pages by default."
+msgstr "Esta área de widgets se utiliza para las páginas de blog por defecto."
+
+#: core/widgets/sidebars.php:37
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: core/widgets/sidebars.php:38 core/widgets/sidebars.php:50
+#: core/widgets/sidebars.php:62 core/widgets/sidebars.php:76
+msgid "This widgets area is used in footer."
+msgstr "Esta área de widgets se utiliza en el pie de página."
+
+#: core/widgets/sidebars.php:49
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: core/widgets/sidebars.php:61
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: core/widgets/sidebars.php:75
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: core/widgets/sidebars.php:100
+msgid "This is your custom sidebar."
+msgstr "Esta es la barra lateral personalizado."
+
+#: core/widgets/widget-contact-form.php:10
+msgid "Contact Form Widget."
+msgstr "Contacto Formulario de widgets."
+
+#: core/widgets/widget-contact-form.php:17
+msgid "Sending..."
+msgstr "Enviando ..."
+
+#: core/widgets/widget-contact-form.php:18
+msgid "Fill all form fields please"
+msgstr "Rellene todos los campos del formulario por favor"
+
+#: core/widgets/widget-contact-form.php:44
+msgid "Subject"
+msgstr "Asunto"
+
+#: core/widgets/widget-contact-form.php:47
+msgid "Oh snap! Name field can't stay empty."
+msgstr "¡Oh broche! Campo Nombre no puede estar vacío."
+
+#: core/widgets/widget-contact-form.php:48
+msgid "Oh snap! There was a mistake when writing a e-mail."
+msgstr "¡Oh broche! Hubo un error al escribir un e-mail."
+
+#: core/widgets/widget-contact-form.php:49
+msgid "Oh snap! Subject field can't stay empty."
+msgstr "¡Oh broche! Asunto campo no puede estar vacío."
+
+#: core/widgets/widget-contact-form.php:52
+msgid "Message"
+msgstr "mensaje"
+
+#: core/widgets/widget-contact-form.php:53
+msgid "Oh snap! This field can't stay empty."
+msgstr "¡Oh broche! Este campo no puede quedar vacío."
+
+#: core/widgets/widget-contact-form.php:54
+msgid "Error. You message wasn't sent. Something wrong happen."
+msgstr "Error. Usted mensaje no se ha enviado. Algo malo sucede."
+
+#: core/widgets/widget-contact-form.php:55
+msgid "Well done! You message is successfully sent."
+msgstr "Bien hecho! Usted mensaje se envió con éxito."
+
+#: core/widgets/widget-contact-form.php:57
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+#: core/widgets/widget-contact-form.php:81
+msgid "Email will be sent on"
+msgstr "Bien Hecho! USTED SE Envió Mensaje Con Éxito."
+
+#: core/widgets/widget-contact-form.php:82
+msgid "Change"
+msgstr "cambio"
+
+#: core/widgets/widget-flickr.php:60
+msgid "Flickr Photos"
+msgstr "Fotos de Flickr"
+
+#: core/widgets/widget-flickr.php:69
+msgid "Title:"
+msgstr "Titulo:"
+
+#: core/widgets/widget-flickr.php:72
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: core/widgets/widget-flickr.php:75
+msgid "To get your Flickr ID use"
+msgstr "Para obtener su uso Identificación Flickr"
+
+#: core/widgets/widget-flickr.php:77
+msgid "# of Images to Show:"
+msgstr "# De imágenes para mostrar:"
+
+#: core/widgets/widget-get-in-touch.php:8
+msgid "This widget displays your contact information."
+msgstr "Este widget muestra su información de contacto."
+
+#: core/widgets/widget-get-in-touch.php:63
+msgid "Get in Touch"
+msgstr "Ponerse en Contacto"
+
+#: core/widgets/widget-socials.php:12
+msgid "Social Buttons Widget."
+msgstr "Botones Sociales Widget."
+
+#: core/widgets/widget-twitter.php:10
+msgid "Show recent tweets."
+msgstr "Mostrar los últimos tweets."
+
+#: core/widgets/widget-twitter.php:60
+msgid "There's no Tweets in your feed..."
+msgstr "No hay tweets en su feed ..."
+
+#: core/widgets/widget-twitter.php:70
+msgid "Authentication failed! Please check your Twitter app data."
+msgstr ""
+"Error de autenticación! Se recomienda consultar los datos de aplicaciones de "
+"Twitter."
+
+#: core/widgets/widget-twitter.php:72
+msgid "There's no tweets there in account"
+msgstr "No hay tweets de allí en cuenta"
+
+#: core/widgets/widget-twitter.php:105
+msgid "Twitter Username:"
+msgstr "Twitter Nombre de usuario:"
+
+#: core/widgets/widget-twitter.php:106
+msgid "Tweets to Show:"
+msgstr "Tweets a Show:"
+
+#: footer.php:16 footer.php:53
+msgid ""
+"Drop a widget on \"Footer Sidebar 1\" sidebar at Appearance > Widgets page."
+msgstr ""
+"Caída de un widget en  \"barra lateral \" Pie de página Sidebar 1 \" en la "
+"página Apariencia> Widgets."
+
+#: footer.php:25 footer.php:62
+msgid ""
+"Drop a widget on \"Footer Sidebar 2\" sidebar at Appearance > Widgets page."
+msgstr ""
+"Caída de un widget en \"  barra lateral \"Pie de página Sidebar 2 \" en la "
+"página Apariencia> Widgets."
+
+#: footer.php:34 footer.php:71
+msgid ""
+"Drop a widget on \"Footer Sidebar 3\" sidebar at Appearance > Widgets page."
+msgstr ""
+"Caída de un widget en \"  barra lateral \"Pie de página Sidebar 3 \" en la "
+"página Apariencia> Widgets."
+
+#: footer.php:43
+msgid ""
+"Drop a widget on \"Footer Sidebar 4\" sidebar at Appearance > Widgets page."
+msgstr ""
+"Caída de un widget en \" barra lateral \"Pie de página Sidebar 4 \" en la "
+"página Apariencia> Widgets."
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "No comments"
+msgstr "sin comentarios"
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "% comments"
+msgstr "% comentarios"
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "Comments off"
+msgstr "Comentarios desactivados"
+
+#: search.php:18
+msgid "Search results for"
+msgstr "Resultados de la búsqueda"
+
+#: single-attachment.php:21
+msgid "Attachment"
+msgstr "accesorio"
+
+#: single-xenia_portfolio.php:283 template-portfolio.php:152
+msgid "Load Full Portfolio"
+msgstr "Carga completa cartera"
+
+#. Template Name of the plugin/theme
+msgid "Page with Visual Composer"
+msgstr "Página con Visual Composer"
+
+#: comments.php:26
+msgctxt "noun"
+msgid "Comment"
+msgstr "comentario"
+
+#: core/custom_posts/portfolio.php:73
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Categorias"
+
+#: core/custom_posts/portfolio.php:74
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoria"

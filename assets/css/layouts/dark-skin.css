@@ -1,0 +1,11 @@
+.footer {background: #555;border:1px solid #777777;}
+.footer-widget .widget-title {color: #eee;}
+.contact-footer li {color: #ccc;}
+.footer-bottom {border-top: 1px solid #777;color: #ccc;}
+.footer-bottom a {color: #ccc;}
+.footer-widget .tagcloud a {color: #ddd;background: rgba(250,250,250,0.25);}
+.footer-widget .tagcloud a:hover{background: rgba(250,250,250,0.5);color:#ddd;}
+.foot_menu ul li a {color: #ccc;}
+.widget_xenia-social-buttons ul li a {color: rgba(250,250,250,0.5)}
+.widget_xenia-social-buttons ul li a:hover {color: rgba(250,250,250,0.8)}
+.copyright p {color: #ccc;}

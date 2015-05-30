@@ -1,0 +1,5333 @@
+# Copyright (c) Phoenix Team, {2015}
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenia 2.2.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-02-20 07:08:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Phoenix Team <phoenix.team.themes@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:14
+msgid "Error"
+msgstr ""
+
+#: 404.php:34
+msgid "Oops, 404 Error!"
+msgstr ""
+
+#: 404.php:35
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: appearance.php:4 core/options/settings/appearance.php:4
+msgid "Appearance"
+msgstr ""
+
+#: appearance.php:11 core/options/settings/appearance.php:11
+msgid "Layout Style"
+msgstr ""
+
+#: appearance.php:12 core/options/settings/appearance.php:12
+msgid "Choose boxed or full page mode"
+msgstr ""
+
+#: appearance.php:14 core/options/settings/appearance.php:14
+msgid "Full Width"
+msgstr ""
+
+#: appearance.php:15 core/options/settings/appearance.php:15
+msgid "Boxed"
+msgstr ""
+
+#: appearance.php:23 core/options/redux-framework/sample/sample-config.php:675
+#: core/options/settings/appearance.php:31
+msgid "Body Background"
+msgstr ""
+
+#: appearance.php:24 core/options/redux-framework/sample/sample-config.php:676
+#: core/options/settings/appearance.php:32
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: appearance.php:25 core/options/settings/appearance.php:33
+msgid "Will be used if you choose a boxed layout."
+msgstr ""
+
+#: appearance.php:33 core/options/settings/appearance.php:47
+msgid "Theme colors"
+msgstr ""
+
+#: appearance.php:34 core/options/settings/appearance.php:48
+msgid "Select one of 10 predefined theme colors."
+msgstr ""
+
+#: appearance.php:85 core/options/settings/appearance.php:99
+msgid "Use custom color?"
+msgstr ""
+
+#: appearance.php:86 core/options/settings/appearance.php:100
+msgid "Choose you own custom color."
+msgstr ""
+
+#: appearance.php:98 core/options/settings/appearance.php:120
+#: core/shortcodes/shortcodes-mapper.php:337
+msgid "Custom Color"
+msgstr ""
+
+#: appearance.php:99 core/options/settings/appearance.php:121
+msgid "You can define a new custom color for the theme  scheme."
+msgstr ""
+
+#: appearance.php:108 core/options/settings/appearance.php:136
+msgid "Footer Skin"
+msgstr ""
+
+#: appearance.php:109 core/options/settings/appearance.php:137
+#: core/options/settings/footer.php:24
+msgid "You can choose how many columns you want in footer."
+msgstr ""
+
+#: appearance.php:120 core/options/settings/appearance.php:148
+msgid "Use Custom Fonts?"
+msgstr ""
+
+#: appearance.php:121 core/options/settings/appearance.php:149
+msgid "Choose custom fonts for headers, menus, etc."
+msgstr ""
+
+#: appearance.php:132 core/options/settings/appearance.php:168
+msgid "Titles Font"
+msgstr ""
+
+#: appearance.php:167 core/options/settings/appearance.php:203
+msgid "General Font"
+msgstr ""
+
+#: appearance.php:383
+msgid "Upload Favicon"
+msgstr ""
+
+#: appearance.php:384 core/options/settings/appearance.php:252
+msgid "Upload a 16px x 16px png/gif/ico icon"
+msgstr ""
+
+#: appearance.php:392 core/options/settings/appearance.php:260
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: appearance.php:393 core/options/settings/appearance.php:261
+msgid "Upload a 57px x 57px png/gif/ico icon for Classic iPhone"
+msgstr ""
+
+#: appearance.php:401 core/options/settings/appearance.php:269
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: appearance.php:402 core/options/settings/appearance.php:270
+msgid "Upload a 114px x 114px png/gif/ico icon for Retina iPhone"
+msgstr ""
+
+#: appearance.php:410 core/options/settings/appearance.php:278
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: appearance.php:411 core/options/settings/appearance.php:279
+msgid "Upload a 72px x 72px png/gif/ico icon for Classic iPad"
+msgstr ""
+
+#: appearance.php:419 core/options/settings/appearance.php:287
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: appearance.php:420 core/options/settings/appearance.php:288
+msgid "Upload a 144px x 144px png/gif/ico icon for Retina iPad"
+msgstr ""
+
+#: archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: archive.php:77 author.php:91 category.php:77 index.php:124 search.php:84
+#: single-attachment.php:127 single-xenia_portfolio.php:320 single.php:156
+#: tag.php:77 tpl-portfolio-single-half.php:332
+#: tpl-portfolio-single-wide.php:327 tpl-single-full.php:168
+#: tpl-single-sidebar.php:167
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: author.php:18 single-xenia_portfolio.php:94 single-xenia_portfolio.php:96
+#: tpl-portfolio-single-half.php:118 tpl-portfolio-single-half.php:120
+#: tpl-portfolio-single-wide.php:113 tpl-portfolio-single-wide.php:115
+msgid "Author"
+msgstr ""
+
+#: author.php:60 single.php:108 tpl-single-full.php:120
+#: tpl-single-sidebar.php:120
+msgid "About author:"
+msgstr ""
+
+#: category.php:18 single-xenia_portfolio.php:84
+#: tpl-portfolio-single-half.php:108 tpl-portfolio-single-wide.php:103
+msgid "Category"
+msgstr ""
+
+#: comments.php:8
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:23
+msgid "Send Comment"
+msgstr ""
+
+#: comments.php:31
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:37
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:52 core/widgets/widget-contact-form.php:41
+#: single-xenia_portfolio.php:72 tpl-portfolio-single-half.php:96
+#: tpl-portfolio-single-wide.php:91
+msgid "Name"
+msgstr ""
+
+#: comments.php:57 core/widgets/widget-contact-form.php:44
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:62
+msgid "Web Site"
+msgstr ""
+
+#: comments.php:68
+msgid "on"
+msgstr ""
+
+#: comments.php:76 comments.php:81
+msgid "Comments are closed here."
+msgstr ""
+
+#: core/admin/enqueues/admin_scripts.php:32
+msgid ""
+"Number of \"Social Networks\" fields and\n"
+"\"Social URLs\" fields must match!"
+msgstr ""
+
+#: core/admin/enqueues/admin_scripts.php:33
+msgid ""
+"All fields of \"Social Networks\" group\n"
+"must be filled!"
+msgstr ""
+
+#: core/admin/enqueues/admin_scripts.php:34
+msgid ""
+"Select an icon for your service item. Icons belong to <a "
+"href=\"http://fortawesome.github.io/Font-Awesome/\" "
+"target=\"_blank\">FontAwesome</a>, the iconic font designed for Bootstrap."
+msgstr ""
+
+#: core/core.php:226
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: core/core.php:227
+msgid "Footer Menu"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:22
+msgid "Portfolio Item"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:24 core/custom_posts/services.php:23
+#: core/custom_posts/team.php:23 core/custom_posts/testimonials.php:23
+msgid "Add New"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:25
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:26 core/custom_posts/services.php:25
+#: core/custom_posts/team.php:25 core/custom_posts/testimonials.php:25
+#: core/helpers/utils.php:204
+msgid "Edit"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:27
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:28
+msgid "New Portfolio Item"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:29
+msgid "View Portfolio"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:30
+msgid "View Portfolio Item"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:31
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:32
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:33
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:75
+msgid "Search Categories"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:76
+msgid "All Categories"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:77
+msgid "Parent Category"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:78
+msgid "Parent Category:"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:79
+msgid "Edit Category"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:80
+msgid "Update Category"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:81
+msgid "Add New Category"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:82
+msgid "New Category Name"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:83
+msgid "Categories"
+msgstr ""
+
+#: core/custom_posts/services.php:20 core/custom_posts/services.php:22
+msgid "Services"
+msgstr ""
+
+#: core/custom_posts/services.php:21 core/shortcodes/shortcodes-mapper.php:641
+msgid "Service"
+msgstr ""
+
+#: core/custom_posts/services.php:24
+msgid "Add New Service Item"
+msgstr ""
+
+#: core/custom_posts/services.php:26
+msgid "Edit Service Item"
+msgstr ""
+
+#: core/custom_posts/services.php:27
+msgid "New Service Item"
+msgstr ""
+
+#: core/custom_posts/services.php:28
+msgid "View"
+msgstr ""
+
+#: core/custom_posts/services.php:29
+msgid "View Service Item"
+msgstr ""
+
+#: core/custom_posts/services.php:30
+msgid "Search Service Items"
+msgstr ""
+
+#: core/custom_posts/services.php:31
+msgid "No Service Items found"
+msgstr ""
+
+#: core/custom_posts/services.php:32
+msgid "No Service Item found in Trash"
+msgstr ""
+
+#: core/custom_posts/team.php:20
+msgid "Team Members"
+msgstr ""
+
+#: core/custom_posts/team.php:21 core/shortcodes/shortcodes-mapper.php:723
+msgid "Team Member"
+msgstr ""
+
+#: core/custom_posts/team.php:22
+msgid "Team"
+msgstr ""
+
+#: core/custom_posts/team.php:24
+msgid "Add New Team Member"
+msgstr ""
+
+#: core/custom_posts/team.php:26
+msgid "Edit Team Member"
+msgstr ""
+
+#: core/custom_posts/team.php:27
+msgid "New Team Member"
+msgstr ""
+
+#: core/custom_posts/team.php:28
+msgid "View "
+msgstr ""
+
+#: core/custom_posts/team.php:29
+msgid "View Team Member"
+msgstr ""
+
+#: core/custom_posts/team.php:30
+msgid "Search Team Members"
+msgstr ""
+
+#: core/custom_posts/team.php:31
+msgid "No Team Members found"
+msgstr ""
+
+#: core/custom_posts/team.php:32
+msgid "No Team Members found in Trash"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:20 core/custom_posts/testimonials.php:22
+#: core/shortcodes/shortcodes-mapper.php:828
+msgid "Testimonials"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:21
+msgid "Testimonial"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:26
+msgid "Edit Testimonial"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:27
+msgid "New Testimonial"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:28
+msgid "View Testimonials"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:29
+msgid "View Testimonial"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:30
+msgid "Search Testimonials"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:31
+msgid "No Testimonials found"
+msgstr ""
+
+#: core/custom_posts/testimonials.php:32
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:36
+msgid "Corporate Homepage Layout"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:61
+msgid "Business Homepage Layout"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:91
+msgid "Industrial Homepage Layout"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:116
+msgid "About Us Page"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:149
+msgid "Services Page"
+msgstr ""
+
+#: core/deps/settings/js_composer.php:189
+msgid "Contacts Page"
+msgstr ""
+
+#: core/deps/tgm.php:57 core/helpers/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/deps/tgm.php:58 core/helpers/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: core/deps/tgm.php:59 core/helpers/class-tgm-plugin-activation.php:198
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/deps/tgm.php:60
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/deps/tgm.php:61 core/helpers/class-tgm-plugin-activation.php:200
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:62 core/helpers/class-tgm-plugin-activation.php:201
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:63 core/helpers/class-tgm-plugin-activation.php:202
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:64 core/helpers/class-tgm-plugin-activation.php:203
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:65 core/helpers/class-tgm-plugin-activation.php:204
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:66 core/helpers/class-tgm-plugin-activation.php:205
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:67 core/helpers/class-tgm-plugin-activation.php:206
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:68 core/helpers/class-tgm-plugin-activation.php:207
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:69 core/helpers/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:70 core/helpers/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/deps/tgm.php:71 core/helpers/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/deps/tgm.php:72 core/helpers/class-tgm-plugin-activation.php:212
+#: core/helpers/class-tgm-plugin-activation.php:1958
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/deps/tgm.php:73
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/enqueues/scripts.php:103 core/shortcodes/shortcodes-class.php:724
+#: single-xenia_portfolio.php:244 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:257
+#: tpl-portfolio-single-wide.php:252
+msgid "Error! Please refresh the page!"
+msgstr ""
+
+#: core/enqueues/scripts.php:104 core/shortcodes/shortcodes-class.php:724
+#: single-xenia_portfolio.php:244 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:257
+#: tpl-portfolio-single-wide.php:252
+msgid "Loading..."
+msgstr ""
+
+#: core/enqueues/scripts.php:105 core/shortcodes/shortcodes-class.php:724
+#: single-xenia_portfolio.php:244 tpl-portfolio-2cols.php:114
+#: tpl-portfolio-3cols.php:114 tpl-portfolio-4cols.php:114
+#: tpl-portfolio-full.php:114 tpl-portfolio-single-half.php:257
+#: tpl-portfolio-single-wide.php:252
+msgid "No More Works"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:213
+#: core/helpers/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:214
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:548
+#: core/helpers/class-tgm-plugin-activation.php:2175
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1178
+msgid "Private Repository"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1181
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1186
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1189
+msgid "Required"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1189
+msgid "Recommended"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1192
+msgid "Not Installed"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1194
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1296
+#: core/helpers/class-tgm-plugin-activation.php:1404
+msgid "Install"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1318
+#: core/helpers/class-tgm-plugin-activation.php:1405
+msgid "Activate"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1367
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1383
+msgid "Plugin"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1384
+msgid "Source"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1385
+#: core/shortcodes/shortcodes-mapper.php:201
+msgid "Type"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1386
+msgid "Status"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1514
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1622
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1941
+msgid "Install package not available."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1942
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1943
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1944
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1945
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1946
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:1957
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "Show Details"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2072
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "Hide Details"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2073
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2074
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2079
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2080
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2081
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2082
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/helpers/class-tgm-plugin-activation.php:2083
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/helpers/internals.php:83
+msgid "Search..."
+msgstr ""
+
+#: core/helpers/internals.php:137
+msgid "Subtitle"
+msgstr ""
+
+#: core/helpers/internals.php:161
+msgid "Thumbnail"
+msgstr ""
+
+#: core/helpers/internals.php:192 core/shortcodes/shortcodes-mapper.php:53
+msgid "None"
+msgstr ""
+
+#: core/helpers/internals.php:328 core/metaboxes/settings/testimonials.php:6
+msgid "Details"
+msgstr ""
+
+#: core/helpers/internals.php:342
+msgid "This message was sent via contact form from"
+msgstr ""
+
+#: core/helpers/internals.php:396 core/helpers/internals.php:444
+#: core/shortcodes/shortcodes-class.php:191
+#: core/shortcodes/shortcodes-class.php:770 format-audio.php:50
+#: format-gallery.php:60 format-image.php:30 format-link.php:50
+#: format-quote.php:43 format-standard.php:30 format-video.php:40
+#: single-attachment.php:74 single-xenia_portfolio.php:285
+#: template-portfolio.php:200 tpl-portfolio-2cols.php:155
+#: tpl-portfolio-3cols.php:155 tpl-portfolio-4cols.php:155
+#: tpl-portfolio-full.php:155 tpl-portfolio-single-half.php:298
+#: tpl-portfolio-single-wide.php:293
+msgid "by"
+msgstr ""
+
+#: core/helpers/internals.php:446
+msgid "View Project"
+msgstr ""
+
+#: core/helpers/internals.php:465 core/helpers/internals.php:466
+#: core/options/redux-framework/sample/sample-config.php:1776
+msgid "Support"
+msgstr ""
+
+#: core/helpers/utils.php:49
+msgid "You are here"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home"
+msgstr ""
+
+#: core/helpers/utils.php:72
+msgid "Home Page"
+msgstr ""
+
+#: core/helpers/utils.php:90
+msgid "Search for: "
+msgstr ""
+
+#: core/helpers/utils.php:174
+msgid "404 page"
+msgstr ""
+
+#: core/helpers/utils.php:179
+msgid "Page "
+msgstr ""
+
+#: core/helpers/utils.php:208
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/utils.php:256 single-xenia_portfolio.php:139
+#: single-xenia_portfolio.php:181 single.php:86 single.php:118
+#: tpl-portfolio-single-half.php:163 tpl-portfolio-single-half.php:205
+#: tpl-portfolio-single-wide.php:158 tpl-portfolio-single-wide.php:200
+#: tpl-single-full.php:98 tpl-single-full.php:130 tpl-single-sidebar.php:98
+#: tpl-single-sidebar.php:130
+msgid "Prev"
+msgstr ""
+
+#: core/helpers/utils.php:257 single-xenia_portfolio.php:143
+#: single-xenia_portfolio.php:185 single.php:85 single.php:125
+#: tpl-portfolio-single-half.php:167 tpl-portfolio-single-half.php:209
+#: tpl-portfolio-single-wide.php:162 tpl-portfolio-single-wide.php:204
+#: tpl-single-full.php:97 tpl-single-full.php:137 tpl-single-sidebar.php:97
+#: tpl-single-sidebar.php:137
+msgid "Next"
+msgstr ""
+
+#: core/metaboxes/core/inc/field.php:221
+msgid "+"
+msgstr ""
+
+#: core/metaboxes/core/inc/field.php:231
+msgid "&#8211;"
+msgstr ""
+
+#: core/metaboxes/core/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:8
+msgid "Standard Fields"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:28
+#: core/metaboxes/settings/portfolio.php:73
+msgid "Author:"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:35
+#: core/metaboxes/settings/portfolio.php:76
+#: core/metaboxes/settings/testimonials.php:18
+msgid "John Doe"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:42
+msgid "Checkbox"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:51
+msgid "Radio"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:57
+#: core/metaboxes/settings/_example.php:70
+#: core/metaboxes/settings/_example.php:233
+#: core/metaboxes/settings/_example.php:281
+msgid "Label1"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:58
+#: core/metaboxes/settings/_example.php:71
+#: core/metaboxes/settings/_example.php:234
+#: core/metaboxes/settings/_example.php:282
+msgid "Label2"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:65
+#: core/metaboxes/settings/_example.php:276
+msgid "Select"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:76
+#: core/metaboxes/settings/_example.php:287
+msgid "Select an Item"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:84
+msgid "Hidden value"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:89
+#: core/metaboxes/settings/portfolio.php:52
+msgid "Date (mm.dd.yyyy):"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:95
+#: core/metaboxes/settings/portfolio.php:58
+msgid "mm.dd.yy"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:111
+#: core/metaboxes/settings/portfolio.php:117
+msgid "Description:"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:116
+#: core/metaboxes/settings/portfolio.php:121
+msgid "Your Description here..."
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:127
+msgid "Textarea"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:128
+msgid "Textarea description"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:154
+msgid "Advanced Fields"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:160
+msgid "Heading"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:165
+#: core/shortcodes/shortcodes-mapper.php:168
+#: core/shortcodes/shortcodes-mapper.php:843
+msgid "Slider"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:170
+msgid "$"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:171
+msgid " USD"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:183
+msgid "Number"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:207
+msgid "Time picker"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:222
+msgid "Color picker"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:239 core/options/settings/header.php:79
+#: core/shortcodes/shortcodes-mapper.php:804
+msgid "Email"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:241
+msgid "Email description"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:247
+msgid "Range"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:249
+msgid "Range description"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:259
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:261
+msgid "URL description"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:268
+msgid "oEmbed"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:270
+msgid "oEmbed description"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:292
+msgid "Taxonomy"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:307
+msgid "Posts (Pages)"
+msgstr ""
+
+#: core/metaboxes/settings/_example.php:324
+msgid "File Advanced Upload"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:9 core/metaboxes/settings/portfolio.php:3
+msgid "Default (All Categories)"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:18
+msgid "Page Settings"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:34
+#: core/metaboxes/settings/portfolio.php:163
+msgid "Portfolio Category:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:37
+msgid ""
+"Select category for this page. This category <b>should be</b> a parent "
+"category."
+msgstr ""
+
+#: core/metaboxes/settings/page.php:44
+msgid "Header background:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:48
+msgid "Select image from media library."
+msgstr ""
+
+#: core/metaboxes/settings/page.php:53
+msgid "Advanced background settings:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:57
+msgid "It works <b>ONLY</b> if you choose a header background image above."
+msgstr ""
+
+#: core/metaboxes/settings/page.php:67
+msgid "Page header background:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:76
+msgid "Background opacity:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:91
+msgid "Page title color:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:111
+#: core/metaboxes/settings/portfolio.php:143
+#: core/metaboxes/settings/post.php:228
+msgid "Breadcrumbs:"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:116
+#: core/metaboxes/settings/portfolio.php:148
+#: core/metaboxes/settings/post.php:233
+#: core/options/redux-framework/ReduxCore/framework.php:1844
+msgid "Default"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:117
+#: core/metaboxes/settings/portfolio.php:149
+#: core/metaboxes/settings/post.php:234
+msgid "Show"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:118
+#: core/metaboxes/settings/portfolio.php:150
+#: core/metaboxes/settings/post.php:235
+msgid "Hide"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:128
+msgid "Page Layout"
+msgstr ""
+
+#: core/metaboxes/settings/page.php:150
+msgid "Select widgets area for this page."
+msgstr ""
+
+#: core/metaboxes/settings/page.php:154
+msgid "Select Widgets Area"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:12
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:31
+#: core/metaboxes/settings/post.php:114
+msgid "Ctrl/Cmd + click: select multiply images from media library."
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:42
+msgid "Portfolio Details"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:81
+msgid "Author URL:"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:95
+msgid "Client:"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:98
+msgid "Jane Doe"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:103
+msgid "Client URL:"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:134
+msgid "Portfolio Settings"
+msgstr ""
+
+#: core/metaboxes/settings/portfolio.php:166
+msgid "Select category for \"Recent Works\" section."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:13
+msgid "Link Post Options"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:23
+msgid "Link URL:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:25
+msgid "Post title will be a link to the URL."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:36
+msgid "Target of link:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:39
+msgid "Set target of link."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:41
+msgid "New window or tab"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:42
+msgid "Same window or tab"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:53
+msgid "Link Relationship (optional):"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:55
+msgid "Set link \"rel\" attribute. Example: nofollow, dofollow or etc."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:66
+msgid "Quote Post Options"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:76
+msgid "Quote text:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:77
+msgid "Add text for quote."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:90
+msgid "Quote author:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:92
+msgid "Who said this quote?"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:102
+msgid "Gallery Post Options"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:110
+msgid "Gallery"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:122
+msgid "Video Post Options"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:131
+msgid "Video source:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:133
+msgid "Select video source."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:149
+msgid "Video Url:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:151
+msgid ""
+"Video URL. For example:<br/>YouTube - <a "
+"href=\"#\">https://www.youtube.com/watch?v=BsekcY04xvQ</a><br/>Vimeo - <a "
+"href=\"#\">http://vimeo.com/102671169</a>"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:156
+msgid "Video embed code:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:157
+msgid "Add your embed code here. <a href=\"#\">Get the example.</a>"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:168
+msgid "Audio Post Options"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:176
+msgid "Audio source:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:178
+msgid "Select audio source."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:193
+msgid "Audio Url:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:195
+msgid ""
+"Audio URL. For example:<br/>SoundCloud - <a "
+"href=\"#\">https://soundcloud.com/alunageorge/coldplay-magic-alunageorge-"
+"remix</a>"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:200
+msgid "Audio file:"
+msgstr ""
+
+#: core/metaboxes/settings/post.php:201
+msgid "Upload your audio file here."
+msgstr ""
+
+#: core/metaboxes/settings/post.php:214
+msgid "Post Settings"
+msgstr ""
+
+#: core/metaboxes/settings/services.php:5
+msgid "Service Details"
+msgstr ""
+
+#: core/metaboxes/settings/services.php:14
+msgid "Service Text:"
+msgstr ""
+
+#: core/metaboxes/settings/services.php:15
+msgid "Add your text for the service item."
+msgstr ""
+
+#: core/metaboxes/settings/services.php:28
+msgid "Service Icon:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:7
+msgid "Team Member Details"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:15
+msgid "Picture:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:27
+msgid "About:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:28
+msgid "Some words about the member."
+msgstr ""
+
+#: core/metaboxes/settings/team.php:41
+msgid "Position:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:43 core/metaboxes/settings/team.php:153
+#: core/metaboxes/settings/team.php:165 core/metaboxes/settings/team.php:177
+#: core/metaboxes/settings/team.php:189
+msgid "Ex:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:43
+msgid "Web Developer"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:43
+msgid "Sales Manager"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:48
+msgid "Email (optional):"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:50
+msgid "Email will be published with <b>antispambot</b> protection."
+msgstr ""
+
+#: core/metaboxes/settings/team.php:55
+msgid "Social Networks"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:65
+msgid "Social Networks:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:67
+msgid "Select social network. Clone this field to choose another network."
+msgstr ""
+
+#: core/metaboxes/settings/team.php:132
+msgid "Select Social Network"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:142
+msgid "Social URLs:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:144
+msgid ""
+"Select URLs for your social networks defined above. Clone this field to "
+"choose another network.<br/>Note that the number and order of these fields "
+"must comply with social networks fields , defined above."
+msgstr ""
+
+#: core/metaboxes/settings/team.php:151
+msgid "Facebook URL:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:163
+msgid "Twitter URL:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:175
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: core/metaboxes/settings/team.php:187
+msgid "Google+ URL:"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:15
+msgid "Author Name:"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:23
+msgid "Author Photo:"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:35
+msgid "Company or Position:"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:38
+msgid "Google Inc."
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:48
+#: core/shortcodes/shortcodes-mapper.php:241
+msgid "Text"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:54
+msgid "Your text here..."
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:64
+msgid "Rating:"
+msgstr ""
+
+#: core/metaboxes/settings/testimonials.php:67
+msgid " Stars"
+msgstr ""
+
+#: core/options/config.php:77 core/options/config.php:78
+#: core/options/redux-framework/ReduxCore/framework.php:222
+#: core/options/redux-framework/ReduxCore/framework.php:226
+#: core/shortcodes/shortcodes-mapper.php:351
+msgid "Options"
+msgstr ""
+
+#: core/options/config.php:103
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: core/options/config.php:108
+msgid "Buy our items on Envato"
+msgstr ""
+
+#: core/options/config.php:127
+msgid "Theme Online Documentation"
+msgstr ""
+
+#: core/options/config.php:128
+msgid ""
+"<p>Please see it online at <a target=\"_blank\" "
+"href=\"//phoenix-theme.com/documentation/xenia/\">http://phoenix-theme.com</"
+"a>.</p>"
+msgstr ""
+
+#: core/options/config.php:132
+msgid "Our Products Knowledge Base"
+msgstr ""
+
+#: core/options/config.php:137
+msgid "Get Online Support"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/enqueue.php:393
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:530
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/enqueue.php:401
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:531
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/enqueue.php:409
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/enqueue.php:417
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:532
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/enqueue.php:424
+msgid "Please Wait"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  "
+"Would you like to proceed?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:218
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:218
+msgid "Redux Framework"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1392
+#: core/options/redux-framework/ReduxCore/framework.php:1393
+#: core/options/redux-framework/ReduxCore/templates/panel/content.tpl.php:97
+#: core/options/redux-framework/ReduxCore/templates/panel/menu_container.tpl.php:72
+msgid "System Info"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1697
+msgid "Enable"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1702
+msgid "Disable"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1708
+msgid "moving the mouse over"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1710
+msgid "clicking"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1714
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by "
+"using the link below."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:1719
+msgid "Hints"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:2701
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/framework.php:2751
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/class.redux_filesystem.php:25
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/class.redux_functions.php:231
+msgid "Dismiss"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/class.redux_themecheck.php:61
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the "
+"%sTheme-Check Documentation%s to understand some warnings you will see "
+"because of Redux."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your "
+"<strong>Redux</strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/debug.php:41
+#: core/options/redux-framework/ReduxCore/inc/debug.php:69
+#: core/options/redux-framework/ReduxCore/inc/debug.php:76
+#: core/options/redux-framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: core/options/redux-framework/ReduxCore/inc/fields/color/field_color.php:73
+#: core/options/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: core/options/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+#: core/options/redux-framework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: core/options/redux-framework/ReduxCore/inc/fields/media/field_media.php:198
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: core/options/redux-framework/ReduxCore/inc/fields/media/field_media.php:205
+#: core/options/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: core/options/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: core/options/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:125
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:313
+#: template-portfolio.php:110 tpl-portfolio-2cols.php:74
+#: tpl-portfolio-3cols.php:74 tpl-portfolio-4cols.php:74
+#: tpl-portfolio-full.php:74
+msgid "All"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:138
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:145
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:152
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:159
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: core/options/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: core/options/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+#: core/shortcodes/shortcodes-mapper.php:310
+msgid "Units"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+#: core/options/redux-framework/sample/sample-config.php:313
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/select/field_select.php:83
+#: core/options/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/select/field_select.php:134
+#: core/options/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: core/shortcodes/shortcodes-mapper.php:111
+#: core/shortcodes/shortcodes-mapper.php:142
+#: core/shortcodes/shortcodes-mapper.php:384
+#: core/widgets/widget-twitter.php:104
+msgid "Title"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: core/shortcodes/shortcodes-mapper.php:572 single-xenia_portfolio.php:160
+#: single-xenia_portfolio.php:195 tpl-portfolio-single-half.php:184
+#: tpl-portfolio-single-half.php:219 tpl-portfolio-single-wide.php:179
+#: tpl-portfolio-single-wide.php:214
+msgid "Description"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: core/shortcodes/shortcodes-mapper.php:195
+msgid "Font Color"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:871
+msgid "Standard Fonts"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:972
+msgid "Google Webfonts"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed "
+"with caution!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:140
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:149
+#: core/options/redux-framework/ReduxCore/inc/import_export.php:150
+#: core/options/redux-framework/sample/sample-config.php:1590
+msgid "Import / Export"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:152
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:152
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:153
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:154
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:155
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: core/options/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: core/options/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/css/validation_css.php:71
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: core/options/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: core/options/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:48
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:164
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:333
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:471
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:167
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready "
+"to <add description>"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:169
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:300
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:338
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:476
+#: core/options/redux-framework/sample/sample-config.php:210
+msgid "Version %s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:178
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:182
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:195
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:199
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:203
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:208
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:221
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:225
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:223
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:227
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:242
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:246
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:252
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:256
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:262
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:244
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:248
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:254
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:258
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:264
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:277
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:298
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:336
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:474
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready "
+"to make your <description>"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:350
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:352
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> "
+"and enter the options."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:387
+msgid ""
+"The product grids can be customized in any way you wish and there is <a "
+"href=\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add "
+"a Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the "
+"most frictionless purchasing experience possible."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, "
+"such as Stripe and PayPal, extensions for newsletter integrations, and "
+"many, many more."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/inc/welcome.php:539
+msgid "View %s"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/footer.tpl.php:43
+#: core/options/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/footer.tpl.php:46
+#: core/options/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/footer.tpl.php:47
+#: core/options/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/footer.tpl.php:52
+#: core/options/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/header.tpl.php:18
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: core/options/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:410
+#: core/options/redux-framework/sample/sample-config.php:1367
+#: core/options/redux-framework/sample/sample-config.php:1624
+#: core/options/redux-framework/sample/sample-config.php:1770
+msgid "Documentation"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: core/options/redux-framework/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:55
+#: core/options/redux-framework/sample/sample-config.php:239
+msgid "Home Settings"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:56
+#: core/options/redux-framework/sample/sample-config.php:1564
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a "
+"href=\"http://docs.reduxframework.com/core/advanced/wpml-integration/\" "
+"target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:64
+msgid "Example Text"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:67
+msgid "Example description."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:68
+msgid "Example subtitle."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:78
+#: core/options/redux-framework/sample/sample-config.php:1563
+msgid "WPML Example"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:79
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:86
+#: core/options/redux-framework/sample/sample-config.php:1571
+msgid "WPML Text"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:87
+#: core/options/redux-framework/sample/sample-config.php:1572
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:92
+#: core/options/redux-framework/sample/sample-config.php:1577
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:93
+#: core/options/redux-framework/sample/sample-config.php:1578
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:110
+#: core/options/redux-framework/sample/sample-config.php:1635
+msgid "Theme Information 1"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:111
+#: core/options/redux-framework/sample/barebones-config.php:117
+#: core/options/redux-framework/sample/sample-config.php:1636
+#: core/options/redux-framework/sample/sample-config.php:1642
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:116
+#: core/options/redux-framework/sample/sample-config.php:1641
+msgid "Theme Information 2"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:121
+#: core/options/redux-framework/sample/sample-config.php:1646
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:144
+#: core/options/redux-framework/sample/barebones-config.php:145
+#: core/options/redux-framework/sample/sample-config.php:1669
+#: core/options/redux-framework/sample/sample-config.php:1670
+msgid "Sample Options"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:262
+#: core/options/redux-framework/sample/sample-config.php:1815
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:264
+#: core/options/redux-framework/sample/sample-config.php:1817
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/barebones-config.php:268
+#: core/options/redux-framework/sample/sample-config.php:1821
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:108
+msgid "Section via hook"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:109
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to "
+"the sections array. Can be used by child themes to add/remove sections from "
+"the options.</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:189
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:198
+#: core/options/redux-framework/sample/sample-config.php:202
+msgid "Current theme preview"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:209
+msgid "By %s"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:211
+msgid "Tags"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:216
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:216
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:240
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:248
+msgid "Web Fonts"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:252
+#: core/options/redux-framework/sample/sample-config.php:281
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:253
+#: core/options/redux-framework/sample/sample-config.php:282
+#: core/options/redux-framework/sample/sample-config.php:300
+#: core/options/redux-framework/sample/sample-config.php:308
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:262
+msgid "Section Show"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:263
+#: core/options/redux-framework/sample/sample-config.php:270
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:269
+msgid "Media Options"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:278
+msgid "Media w/ URL"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:298
+msgid "Media w/o URL"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:299
+#: core/options/redux-framework/sample/sample-config.php:307
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:306
+msgid "Media No Preview"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:314
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using "
+"the WordPress native uploader"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:315
+#: core/options/redux-framework/sample/sample-config.php:705
+#: core/options/redux-framework/sample/sample-config.php:716
+#: core/options/redux-framework/sample/sample-config.php:734
+#: core/options/redux-framework/sample/sample-config.php:832
+#: core/options/redux-framework/sample/sample-config.php:846
+#: core/options/redux-framework/sample/sample-config.php:855
+#: core/options/redux-framework/sample/sample-config.php:862
+#: core/options/redux-framework/sample/sample-config.php:875
+#: core/options/redux-framework/sample/sample-config.php:884
+#: core/options/redux-framework/sample/sample-config.php:893
+#: core/options/redux-framework/sample/sample-config.php:915
+#: core/options/redux-framework/sample/sample-config.php:928
+#: core/options/redux-framework/sample/sample-config.php:937
+#: core/options/redux-framework/sample/sample-config.php:952
+#: core/options/redux-framework/sample/sample-config.php:961
+#: core/options/redux-framework/sample/sample-config.php:970
+#: core/options/redux-framework/sample/sample-config.php:980
+#: core/options/redux-framework/sample/sample-config.php:996
+#: core/options/redux-framework/sample/sample-config.php:1004
+#: core/options/redux-framework/sample/sample-config.php:1023
+#: core/options/redux-framework/sample/sample-config.php:1031
+#: core/options/redux-framework/sample/sample-config.php:1039
+#: core/options/redux-framework/sample/sample-config.php:1053
+#: core/options/redux-framework/sample/sample-config.php:1061
+#: core/options/redux-framework/sample/sample-config.php:1111
+#: core/options/redux-framework/sample/sample-config.php:1124
+#: core/options/redux-framework/sample/sample-config.php:1144
+#: core/options/redux-framework/sample/sample-config.php:1158
+#: core/options/redux-framework/sample/sample-config.php:1186
+#: core/options/redux-framework/sample/sample-config.php:1219
+#: core/options/redux-framework/sample/sample-config.php:1228
+#: core/options/redux-framework/sample/sample-config.php:1236
+#: core/options/redux-framework/sample/sample-config.php:1245
+#: core/options/redux-framework/sample/sample-config.php:1253
+#: core/options/redux-framework/sample/sample-config.php:1262
+#: core/options/redux-framework/sample/sample-config.php:1270
+#: core/options/redux-framework/sample/sample-config.php:1279
+#: core/options/redux-framework/sample/sample-config.php:1287
+#: core/options/redux-framework/sample/sample-config.php:1296
+#: core/options/redux-framework/sample/sample-config.php:1306
+#: core/options/redux-framework/sample/sample-config.php:1314
+#: core/options/redux-framework/sample/sample-config.php:1323
+#: core/options/redux-framework/sample/sample-config.php:1331
+#: core/options/redux-framework/sample/sample-config.php:1340
+#: core/options/redux-framework/sample/sample-config.php:1390
+#: core/options/redux-framework/sample/sample-config.php:1401
+#: core/options/redux-framework/sample/sample-config.php:1415
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:320
+msgid "Slider Example 1"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:321
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:322
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:332
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:333
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:334
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:344
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:345
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:346
+msgid ""
+"Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, "
+"slider 2 default value: 300"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:360
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:361
+msgid "This example displays float values"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:362
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:373
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:374
+msgid "JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:383
+msgid "Switch On"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:384
+#: core/options/redux-framework/sample/sample-config.php:391
+msgid "Look, it's on!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:390
+msgid "Switch Off"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:398
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:399
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:408
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:409
+#: core/options/redux-framework/sample/sample-config.php:418
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:410
+#: core/options/redux-framework/sample/sample-config.php:419
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:417
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:430
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:431
+msgid "Select a background pattern."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:477
+msgid "Slides Options"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:478
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:479
+msgid ""
+"This field will store all slides values into a multidimensional array to "
+"use into a foreach loop."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:481
+msgid "This is a title"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:482
+msgid "Description Here"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:483
+msgid "Give us a link!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:490
+msgid "Preset"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:491
+#: core/options/redux-framework/sample/sample-config.php:493
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:514
+msgid "Typography"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:536
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:555
+msgid "General Settings"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:561
+msgid "Main Layout"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:562
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:595
+msgid "Tracking Code"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:596
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:603
+msgid "CSS Code"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:604
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:635
+msgid "Footer Text"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:636
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-url] "
+"[site-url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] "
+"[current-year]"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:651
+msgid "Styling Options"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:657
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:658
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:666
+msgid "Body Background Color"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:667
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:682
+msgid "Footer Background Color"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:683
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:690
+msgid "Color RGBA"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:691
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:703
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:704
+#: core/options/redux-framework/sample/sample-config.php:715
+#: core/options/redux-framework/sample/sample-config.php:731
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:714
+msgid "Links Color Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:730
+msgid "Header Border Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:760
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:761
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:762
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, "
+"Left, or Units."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:775
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:776
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:777
+msgid "You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:786
+msgid "Body Font"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:787
+msgid "Specify the body font properties."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:799
+#: core/options/settings/other.php:68
+msgid "Custom CSS"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:800
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:801
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:807
+msgid "Custom HTML"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:808
+msgid "Just like a text box widget."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:809
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:823
+msgid "Field Validation"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:824
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:825
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:830
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:831
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:844
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:845
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:852
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:854
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text "
+"\"blue\" as a color.  ;)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:860
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:861
+msgid "This must be a URL."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:873
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:874
+msgid "This must be numeric."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:882
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:883
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:891
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:892
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:900
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:901
+#: core/options/redux-framework/sample/sample-config.php:914
+#: core/options/redux-framework/sample/sample-config.php:927
+#: core/options/redux-framework/sample/sample-config.php:936
+msgid "You decide."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:902
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:913
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:926
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:935
+msgid "Text Option - Custom Callback Validated - Class"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:950
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:951
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:959
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:960
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:968
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:969
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:978
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:979
+msgid "JS will be escaped"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:988
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:989
+#: core/options/redux-framework/sample/sample-config.php:1137
+#: core/options/redux-framework/sample/sample-config.php:1383
+#: core/options/redux-framework/sample/sample-config.php:1611
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:994
+msgid "Checkbox Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:995
+#: core/options/redux-framework/sample/sample-config.php:1003
+#: core/options/redux-framework/sample/sample-config.php:1022
+#: core/options/redux-framework/sample/sample-config.php:1030
+#: core/options/redux-framework/sample/sample-config.php:1038
+#: core/options/redux-framework/sample/sample-config.php:1052
+#: core/options/redux-framework/sample/sample-config.php:1060
+#: core/options/redux-framework/sample/sample-config.php:1075
+#: core/options/redux-framework/sample/sample-config.php:1143
+#: core/options/redux-framework/sample/sample-config.php:1157
+#: core/options/redux-framework/sample/sample-config.php:1185
+#: core/options/redux-framework/sample/sample-config.php:1218
+#: core/options/redux-framework/sample/sample-config.php:1227
+#: core/options/redux-framework/sample/sample-config.php:1235
+#: core/options/redux-framework/sample/sample-config.php:1244
+#: core/options/redux-framework/sample/sample-config.php:1252
+#: core/options/redux-framework/sample/sample-config.php:1261
+#: core/options/redux-framework/sample/sample-config.php:1269
+#: core/options/redux-framework/sample/sample-config.php:1278
+#: core/options/redux-framework/sample/sample-config.php:1286
+#: core/options/redux-framework/sample/sample-config.php:1295
+#: core/options/redux-framework/sample/sample-config.php:1313
+#: core/options/redux-framework/sample/sample-config.php:1322
+#: core/options/redux-framework/sample/sample-config.php:1330
+#: core/options/redux-framework/sample/sample-config.php:1339
+#: core/options/redux-framework/sample/sample-config.php:1347
+#: core/options/redux-framework/sample/sample-config.php:1389
+#: core/options/redux-framework/sample/sample-config.php:1400
+#: core/options/redux-framework/sample/sample-config.php:1414
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1002
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1021
+#: core/options/redux-framework/sample/sample-config.php:1051
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1029
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1037
+msgid "Radio Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1059
+msgid "Images Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1074
+msgid "Images Option for Layout"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1076
+msgid "This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1109
+#: core/options/redux-framework/sample/sample-config.php:1122
+msgid "Sortable Text Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1110
+#: core/options/redux-framework/sample/sample-config.php:1123
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1136
+msgid "Select Fields"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1142
+msgid "Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1156
+msgid "Select Option with optgroup"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1184
+msgid "Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1199
+msgid "Select Image"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1200
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1211
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1217
+msgid "Categories Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1226
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1234
+msgid "Pages Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1243
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1251
+msgid "Tags Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1260
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1268
+msgid "Menus Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1277
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1285
+msgid "Post Type Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1294
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1304
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1305
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1312
+msgid "Posts Select Option2"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1321
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1329
+msgid "User Role Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1338
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1346
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1348
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1354
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1355
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1356
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1360
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1382
+msgid "Additional Fields"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1388
+msgid "Date Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1399
+msgid "Button Set Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1413
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1428
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1434
+#: core/options/redux-framework/sample/sample-config.php:1442
+#: core/options/redux-framework/sample/sample-config.php:1450
+#: core/options/redux-framework/sample/sample-config.php:1464
+#: core/options/redux-framework/sample/sample-config.php:1472
+#: core/options/redux-framework/sample/sample-config.php:1481
+#: core/options/redux-framework/sample/sample-config.php:1490
+#: core/options/redux-framework/sample/sample-config.php:1499
+msgid "This is a title."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1435
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1443
+msgid "This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1451
+msgid "This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1465
+msgid ""
+"This is an info notice field with the normal style applied, a header and an "
+"icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1473
+msgid ""
+"This is an info notice field with the info style applied, a header and an "
+"icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1482
+msgid ""
+"This is an info notice field with the warning style applied, a header and "
+"an icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1491
+msgid ""
+"This is an info notice field with the success style applied, a header and "
+"an icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1500
+msgid ""
+"This is an notice field with the critical style applied, a header and an "
+"icon."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1505
+msgid "Custom Field Callback"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1506
+#: core/options/redux-framework/sample/sample-config.php:1514
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1507
+#: core/options/redux-framework/sample/sample-config.php:1515
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1513
+msgid "Custom Field Callback - Class"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1523
+#: core/options/redux-framework/sample/sample-config.php:1547
+msgid "Customizer Only Option"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1524
+#: core/options/redux-framework/sample/sample-config.php:1548
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1525
+#: core/options/redux-framework/sample/sample-config.php:1549
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1540
+msgid "Customizer Only"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1541
+msgid ""
+"<p class=\"description\">This Section should be visible only in "
+"Customizer</p>"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1591
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1610
+msgid "Theme Information"
+msgstr ""
+
+#: core/options/redux-framework/sample/sample-config.php:1782
+msgid "Extensions"
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm-controller.php:138
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm-controller.php:143
+msgid "The unknown action has been replaced with \"%s\""
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm-controller.php:158
+msgid "Automatic action performed: \"%s\""
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr ""
+
+#: core/options/redux-framework/tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: core/options/settings/appearance.php:243
+msgid "Icons"
+msgstr ""
+
+#: core/options/settings/appearance.php:243
+msgid "This section let you upload your own custom set of icons."
+msgstr ""
+
+#: core/options/settings/appearance.php:251
+msgid "Favicon"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr ""
+
+#: core/options/settings/blog.php:11
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: core/options/settings/blog.php:12
+msgid "Select a sidebar position for blog pages."
+msgstr ""
+
+#: core/options/settings/blog.php:24
+msgid "Blog Sidebar Widgets Area"
+msgstr ""
+
+#: core/options/settings/blog.php:25
+msgid "Select widgets area for blog pages."
+msgstr ""
+
+#: core/options/settings/blog.php:33
+msgid "Blog Layout Type."
+msgstr ""
+
+#: core/options/settings/blog.php:34
+msgid "Select layout type for blog pages."
+msgstr ""
+
+#: core/options/settings/blog.php:36
+msgid "Classic"
+msgstr ""
+
+#: core/options/settings/blog.php:37
+msgid "Medium"
+msgstr ""
+
+#: core/options/settings/blog.php:45
+msgid "Use Social Share Buttons?"
+msgstr ""
+
+#: core/options/settings/blog.php:46
+msgid "Enable/Disable social share buttons for a single posts."
+msgstr ""
+
+#: core/options/settings/blog.php:57
+msgid "Post Social Share Buttons"
+msgstr ""
+
+#: core/options/settings/blog.php:58
+msgid "Choose what buttons you need to show on a single post."
+msgstr ""
+
+#: core/options/settings/footer.php:4
+msgid "Footer"
+msgstr ""
+
+#: core/options/settings/footer.php:11
+msgid "Use Footer?"
+msgstr ""
+
+#: core/options/settings/footer.php:12
+msgid "You can turn off footer, if you need."
+msgstr ""
+
+#: core/options/settings/footer.php:23
+msgid "Footer Layout"
+msgstr ""
+
+#: core/options/settings/footer.php:36
+msgid "Copytight Text"
+msgstr ""
+
+#: core/options/settings/footer.php:37
+msgid "Place here your copyright. HTML tags are allowed."
+msgstr ""
+
+#: core/options/settings/header.php:4
+msgid "Header"
+msgstr ""
+
+#: core/options/settings/header.php:12
+msgid "Custom Logo"
+msgstr ""
+
+#: core/options/settings/header.php:14
+msgid "Upload your logo."
+msgstr ""
+
+#: core/options/settings/header.php:22
+msgid "Custom Retina Logo"
+msgstr ""
+
+#: core/options/settings/header.php:24
+msgid "Upload your retina logo."
+msgstr ""
+
+#: core/options/settings/header.php:31
+msgid "Use sticky menu?"
+msgstr ""
+
+#: core/options/settings/header.php:42
+msgid "Display Contacts at the Top?"
+msgstr ""
+
+#: core/options/settings/header.php:62
+msgid "Street Address"
+msgstr ""
+
+#: core/options/settings/header.php:63
+msgid "Example: 455 Martinson, Los Angeles"
+msgstr ""
+
+#: core/options/settings/header.php:70
+msgid "Phone Number"
+msgstr ""
+
+#: core/options/settings/header.php:71
+msgid "Example: 8 (043) 567 - 89 - 30"
+msgstr ""
+
+#: core/options/settings/header.php:72
+msgid "Please use valid numbers only"
+msgstr ""
+
+#: core/options/settings/header.php:80
+msgid "Example: support@email.com"
+msgstr ""
+
+#: core/options/settings/other.php:4
+msgid "Other"
+msgstr ""
+
+#: core/options/settings/other.php:12
+msgid "Contact Form E-mail"
+msgstr ""
+
+#: core/options/settings/other.php:13
+msgid "Your email(s) for contact form widget."
+msgstr ""
+
+#: core/options/settings/other.php:14
+msgid "Add more email addresses"
+msgstr ""
+
+#: core/options/settings/other.php:21
+msgid "Show WordPress Admin Bar?"
+msgstr ""
+
+#: core/options/settings/other.php:22
+msgid "You can disable it for <i><b>all users</b></i> here."
+msgstr ""
+
+#: core/options/settings/other.php:33
+msgid "Enable Google Analytics?"
+msgstr ""
+
+#: core/options/settings/other.php:34
+msgid "Enables/Disables GA Tracking Code for your website."
+msgstr ""
+
+#: core/options/settings/other.php:54
+msgid "Google Analytics Property ID"
+msgstr ""
+
+#: core/options/settings/other.php:55
+msgid ""
+"Place here your Google Analytics Property ID. It should look like "
+"`UA-XXXXX-X`.<br />You can find it inside your Google Analytics Dashboard."
+msgstr ""
+
+#: core/options/settings/other.php:69
+msgid "Paste your CSS code her."
+msgstr ""
+
+#: core/options/settings/other.php:80
+msgid "Custom JavaScript"
+msgstr ""
+
+#: core/options/settings/other.php:81
+msgid "Paste your JavaScript code here."
+msgstr ""
+
+#: core/options/settings/page.php:4
+msgid "Page"
+msgstr ""
+
+#: core/options/settings/page.php:11
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: core/options/settings/page.php:12
+msgid "Select a sidebar position for pages."
+msgstr ""
+
+#: core/options/settings/page.php:24
+msgid "Page Sidebar Widgets Area"
+msgstr ""
+
+#: core/options/settings/page.php:25
+msgid "Select widgets area for pages."
+msgstr ""
+
+#: core/options/settings/page.php:33
+msgid "Show Breadcrumbs?"
+msgstr ""
+
+#: core/options/settings/page.php:34
+msgid "Show Breadcrumbs on top of the pages?"
+msgstr ""
+
+#: core/options/settings/page.php:45
+msgid "Show Comments on Pages?"
+msgstr ""
+
+#: core/options/settings/page.php:46
+msgid "Enables comments for static pages."
+msgstr ""
+
+#: core/options/settings/portfolio.php:12
+msgid "Portfolio Page Layout."
+msgstr ""
+
+#: core/options/settings/portfolio.php:13
+msgid "Select layout for portfolio pages."
+msgstr ""
+
+#: core/options/settings/portfolio.php:15
+msgid "2 Columns"
+msgstr ""
+
+#: core/options/settings/portfolio.php:16
+msgid "3 Columns"
+msgstr ""
+
+#: core/options/settings/portfolio.php:17
+msgid "4 Columns"
+msgstr ""
+
+#: core/options/settings/portfolio.php:18
+#: core/shortcodes/shortcodes-mapper.php:207
+msgid "Fullwidth"
+msgstr ""
+
+#: core/options/settings/portfolio.php:26
+msgid "Portfolio Items quantity"
+msgstr ""
+
+#: core/options/settings/portfolio.php:27
+msgid "How many portfolio items will be shown on portfolio page."
+msgstr ""
+
+#: core/options/settings/portfolio.php:38
+msgid "Portfolio Single Items Layout"
+msgstr ""
+
+#: core/options/settings/portfolio.php:39
+msgid "Select layout for portfolio single items."
+msgstr ""
+
+#: core/options/settings/portfolio.php:41
+msgid "Half"
+msgstr ""
+
+#: core/options/settings/portfolio.php:42
+msgid "Wide"
+msgstr ""
+
+#: core/options/settings/portfolio.php:50
+msgid "Related Items quantity"
+msgstr ""
+
+#: core/options/settings/portfolio.php:51
+msgid "How many portfolio items will be shown on portfolio single page."
+msgstr ""
+
+#: core/options/settings/sidebars.php:5
+msgid "Sidebars"
+msgstr ""
+
+#: core/options/settings/sidebars.php:11
+msgid "Sidebars Generator"
+msgstr ""
+
+#: core/options/settings/sidebars.php:13
+msgid "Add Sidebar"
+msgstr ""
+
+#: core/options/settings/sidebars.php:14
+msgid "Add unlimited custom sidebars to you site."
+msgstr ""
+
+#: core/options/settings/social.php:5 core/shortcodes/shortcodes-mapper.php:137
+#: core/shortcodes/shortcodes-mapper.php:456
+msgid "Social"
+msgstr ""
+
+#: core/options/settings/social.php:11
+msgid "Use Multisocial Buttons?"
+msgstr ""
+
+#: core/options/settings/social.php:12
+msgid ""
+"Use multisocial (dynamically defined) or predifined social buttons for Team "
+"Members"
+msgstr ""
+
+#: core/options/settings/social.php:13
+msgid "Caution: dynamically defined social buttons are experimental."
+msgstr ""
+
+#: core/options/settings/social.php:25
+msgid "RSS Feed URL"
+msgstr ""
+
+#: core/options/settings/social.php:26
+msgid "If you don't want to show RSS icon, live this field blank."
+msgstr ""
+
+#: core/options/settings/social.php:33
+msgid "Header Social Icons"
+msgstr ""
+
+#: core/options/settings/social.php:34
+msgid "Enable/Disable social icons in header."
+msgstr ""
+
+#: core/options/settings/social.php:55
+msgid "Facebook URL"
+msgstr ""
+
+#: core/options/settings/social.php:64
+msgid "Twitter URL"
+msgstr ""
+
+#: core/options/settings/social.php:73
+msgid "Pinterest URL"
+msgstr ""
+
+#: core/options/settings/social.php:82
+msgid "Linkedin URL"
+msgstr ""
+
+#: core/options/settings/social.php:91
+msgid "Google Plus URL"
+msgstr ""
+
+#: core/options/settings/social.php:100
+msgid "Vk URL"
+msgstr ""
+
+#: core/options/settings/social.php:109
+msgid "Instagram URL"
+msgstr ""
+
+#: core/options/settings/social.php:118
+msgid "Flickr URL"
+msgstr ""
+
+#: core/options/settings/social.php:127
+msgid "Youtube URL"
+msgstr ""
+
+#: core/options/settings/social.php:136
+msgid "Tumblr URL"
+msgstr ""
+
+#: core/options/settings/social.php:145
+msgid "Foursquare URL"
+msgstr ""
+
+#: core/options/settings/social.php:154
+msgid "Apple URL"
+msgstr ""
+
+#: core/options/settings/social.php:163
+msgid "Android URL"
+msgstr ""
+
+#: core/options/settings/social.php:172
+msgid "Windows URL"
+msgstr ""
+
+#: core/options/settings/social.php:181
+msgid "Behance URL"
+msgstr ""
+
+#: core/options/settings/social.php:190
+msgid "Dribbble URL"
+msgstr ""
+
+#: core/options/settings/social.php:199
+msgid "Delicious URL"
+msgstr ""
+
+#: core/options/settings/social.php:208
+msgid "Skype URL"
+msgstr ""
+
+#: core/options/settings/social.php:217
+msgid "GitHub URL"
+msgstr ""
+
+#: core/options/settings/social.php:226
+msgid "Vimeo URL"
+msgstr ""
+
+#: core/options/settings/update.php:4
+msgid "Updates"
+msgstr ""
+
+#: core/options/settings/update.php:13
+msgid "Use Envato WordPress Toolkit?"
+msgstr ""
+
+#: core/options/settings/update.php:14
+msgid "You can disable notification about it here."
+msgstr ""
+
+#: core/options/settings/update.php:33
+msgid "All Ok! Your theme updates is configured correctly"
+msgstr ""
+
+#: core/options/settings/update.php:39
+msgid ""
+"To change your settings, visit <a "
+"href=\"?page=envato-wordpress-toolkit\">this page</a>."
+msgstr ""
+
+#: core/options/settings/update.php:54 core/options/settings/update.php:75
+msgid "Your Envato Keys is not set!"
+msgstr ""
+
+#: core/options/settings/update.php:59 core/options/settings/update.php:80
+msgid ""
+"To enable update notifications, please visit <a "
+"href=\"?page=envato-wordpress-toolkit\">this page</a>."
+msgstr ""
+
+#: core/options/settings/update.php:96
+msgid "Envato WordPress Toolkit plugin does not installed or it is not active."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:6
+msgid ""
+"Click to <a "
+"href=\"tools.php?page=force-regenerate-thumbnails\">regenerate</a>"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:8
+msgid ""
+"Click to <a target=\"_blank\" "
+"href=\"plugin-install.php?tab=plugin-information&amp;plugin=force-"
+"regenerate-thumbnails&amp;TB_iframe=true\">install plugin</a>"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:11
+msgid "WooCommerce"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:19
+msgid "Product Image Sizes"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:19
+msgid ""
+"These settings affect the actual dimensions of images in your catalog – the "
+"display on the front-end will still be affected by CSS styles."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:19
+msgid ""
+"Also please note, that if you want to change \"Hard Crop\" options for "
+"WooCommerce images, you sould go to its <a "
+"href=\"?page=wc-settings&tab=products\">settings page</a>."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:19
+msgid ""
+"After changing these settings you may need to regenerate your thumbnails. "
+"%1$s."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:27
+msgid "Catalog Images"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:28
+msgid "Dimensions of catalog images."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:39
+msgid "Single Product Images"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:40
+msgid "Dimensions of single product images."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:51
+msgid "Product Thumbnails"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:52
+msgid "Dimensions of product thumbnails."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:69
+msgid "Quantity & Columns"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:69
+msgid ""
+"These settings let you choose how many products per row will be displayed "
+"on your shop main page and at the related products section. <br />Also here "
+"you can set a quantity of related products."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:76
+msgid "Catalog Products Columns"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:77
+msgid ""
+"Products of your main shop catalog will be organized in this number of "
+"columns."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:87
+msgid "Related Products Columns"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:88
+msgid "Related products will be organized in this number of columns."
+msgstr ""
+
+#: core/options/settings/woocommerce.php:98
+msgid "Related Products Quantity"
+msgstr ""
+
+#: core/options/settings/woocommerce.php:99
+msgid "How many related products to show."
+msgstr ""
+
+#: core/shortcodes/shortcodes-class.php:162 format-audio.php:51
+#: format-gallery.php:61 format-image.php:31 format-link.php:51
+#: format-quote.php:44 format-standard.php:31 format-video.php:41
+#: single-attachment.php:75
+msgid "in"
+msgstr ""
+
+#: core/shortcodes/shortcodes-class.php:184 format-audio.php:67
+#: format-gallery.php:77 format-image.php:47 format-link.php:67
+#: format-quote.php:60 format-standard.php:47 format-video.php:57
+msgid "Read More"
+msgstr ""
+
+#: core/shortcodes/shortcodes-class.php:503
+msgid "profile"
+msgstr ""
+
+#: core/shortcodes/shortcodes-class.php:560
+msgid "You didn't select any image."
+msgstr ""
+
+#: core/shortcodes/shortcodes-class.php:782 single-xenia_portfolio.php:295
+#: template-portfolio.php:210
+msgid "Load Full Portfolio"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:60
+msgid "You sould create some posts before you can use this widget"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:64
+msgid "Post Box"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:67
+#: core/shortcodes/shortcodes-mapper.php:106
+#: core/shortcodes/shortcodes-mapper.php:137
+#: core/shortcodes/shortcodes-mapper.php:376
+#: core/shortcodes/shortcodes-mapper.php:424
+#: core/shortcodes/shortcodes-mapper.php:456
+#: core/shortcodes/shortcodes-mapper.php:497
+#: core/shortcodes/shortcodes-mapper.php:644
+#: core/shortcodes/shortcodes-mapper.php:726
+#: core/shortcodes/shortcodes-mapper.php:762
+#: core/shortcodes/shortcodes-mapper.php:833
+msgid "Exclusive"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:67
+#: core/shortcodes/shortcodes-mapper.php:106
+#: core/shortcodes/shortcodes-mapper.php:184
+#: core/shortcodes/shortcodes-mapper.php:235
+#: core/shortcodes/shortcodes-mapper.php:292
+#: core/shortcodes/shortcodes-mapper.php:376
+#: core/shortcodes/shortcodes-mapper.php:424
+#: core/shortcodes/shortcodes-mapper.php:644
+#: core/shortcodes/shortcodes-mapper.php:726
+#: core/shortcodes/shortcodes-mapper.php:762
+#: core/shortcodes/shortcodes-mapper.php:833
+msgid "Content"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:71
+msgid "Select Posts Quantity"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:73
+msgid "How many posts to show in posts box"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:78
+msgid "Select Posts Category"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:80
+msgid ""
+"You sould create some categorise & asosiate them with posts before you can "
+"use this option."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:85
+#: core/shortcodes/shortcodes-mapper.php:218
+#: core/shortcodes/shortcodes-mapper.php:277
+#: core/shortcodes/shortcodes-mapper.php:408
+#: core/shortcodes/shortcodes-mapper.php:439
+#: core/shortcodes/shortcodes-mapper.php:608
+#: core/shortcodes/shortcodes-mapper.php:690
+#: core/shortcodes/shortcodes-mapper.php:745
+msgid "Css"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:87
+#: core/shortcodes/shortcodes-mapper.php:220
+#: core/shortcodes/shortcodes-mapper.php:279
+#: core/shortcodes/shortcodes-mapper.php:410
+#: core/shortcodes/shortcodes-mapper.php:441
+#: core/shortcodes/shortcodes-mapper.php:610
+#: core/shortcodes/shortcodes-mapper.php:692
+#: core/shortcodes/shortcodes-mapper.php:747
+msgid "Design options"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:101
+#: core/widgets/widget-contact-form.php:10
+msgid "Contact Form"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:107
+msgid "Contact form for your site."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:113
+msgid "Email will be sent to "
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:113
+#: core/widgets/widget-contact-form.php:102
+msgid "and other addresses that you have chosen."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:113
+msgid "Change email(s)"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:120
+msgid "Show attachment field?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:121
+msgid "Adds ability to send files using this form."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:132
+msgid "Twitter Feed"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:138
+msgid "Twitter Feed with last tweets."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:148
+msgid "Twitter Username"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:150
+msgid "Ex: @envato, Ph0enixTeam"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:154
+msgid "Tweets to Show"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:156
+msgid "Select how many tweets to show."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:162
+msgid "Layout"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:164
+msgid "Select Twitter Feed layout."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:167
+#: core/shortcodes/shortcodes-mapper.php:842
+msgid "Box"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:179
+msgid "Row"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:185
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:189
+msgid "ID Name for Navigation"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:191
+msgid ""
+"If this row wraps the content of one of your sections, set an ID. You can "
+"then use it for navigation."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:197
+msgid "Select font color. "
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:203
+msgid "You can specify whether the row is displayed fullwidth or in container."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:206
+msgid "In Container"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:212
+#: core/shortcodes/shortcodes-mapper.php:271
+#: core/shortcodes/shortcodes-mapper.php:360
+msgid "Extra class name"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:214
+#: core/shortcodes/shortcodes-mapper.php:273
+#: core/shortcodes/shortcodes-mapper.php:362
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:231
+msgid "Text Block"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:236
+msgid "A block of text with WYSIWYG editor"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:243
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:250
+msgid "Show dropcaps"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:251
+msgid "Show dropcaps to first letter?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:256
+msgid "CSS Animation"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:260
+msgid "No"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:261
+msgid "Top to bottom"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:262
+msgid "Bottom to top"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:263
+msgid "Left to right"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:264
+msgid "Right to left"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:265
+msgid "Appear from center"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:267
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:289
+msgid "Progress Bar"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:293
+msgid "Animated progress bar"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:297
+msgid "Widget title"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:299
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:303
+msgid "Graphic values"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:305
+msgid ""
+"Input graph values, titles and color here. Divide values with linebreaks "
+"(Enter). Example: 90|Development|#e75956"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:312
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:316
+msgid "Label Loction"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:319
+msgid "Inside bar"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:320
+msgid "On top of the bar"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:322
+#: core/shortcodes/shortcodes-mapper.php:339
+msgid "Select bar background color."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:327
+msgid "Bar color"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:330
+msgid "Turquoise"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:331
+msgid "Blue"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:332
+msgid "Grey"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:333
+msgid "Green"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:334
+msgid "Orange"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:335
+msgid "Red"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:336
+msgid "Black"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:344
+msgid "Bar custom color"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:346
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:354
+msgid "Add Stripes?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:355
+msgid "Add animation? Will be visible with striped bars."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:373
+#: core/shortcodes/shortcodes-mapper.php:382
+msgid "Promo Title"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:385
+msgid "Title text."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:392
+msgid "Promo Subtitle"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:394
+msgid "I am subtitle text. Click edit button to change this text."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:395
+msgid "Sutitle text."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:402
+msgid "Hide Promo Line"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:403
+msgid "Hide promo title line center dot?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:422
+msgid "Portfolio Grid"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:426
+msgid "Portfolio items in grid view"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:432
+msgid "Items per page"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:435
+msgid "Select how many items do you want to see in this block."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:453
+msgid "Clients Carousel"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:457
+msgid "Animated carousel with images"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:461
+msgid "Images"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:464
+msgid "Select images from media library."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:471
+msgid "Use popup?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:472
+msgid "Show carousel pictures in popup?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:480
+msgid "Use autoscroll?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:481
+msgid "The carousel will scrolls automatically."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:494
+msgid "Interesting Facts"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:498
+msgid "Some interesting facts with icons"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:502
+msgid "Icon"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:505
+msgid "Music"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:506
+msgid "Cancel"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:507
+msgid "Mail"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:508
+msgid "Heart"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:509
+msgid "Star"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:510
+msgid "User"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:511
+msgid "Videocam"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:512
+msgid "Camera"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:513
+msgid "Photo"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:514
+msgid "Attach"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:515
+msgid "Lock"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:516
+msgid "Eye"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:517 tag.php:18
+msgid "Tag"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:518
+msgid "Thumbs Up"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:519
+msgid "Pencil"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:520
+msgid "Comment"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:521
+msgid "Location"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:522
+msgid "Cup"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:523
+msgid "Trash"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:524
+msgid "Doc"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:525
+msgid "Note"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:526
+msgid "Cog"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:527
+msgid "Params"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:528
+msgid "Calendar"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:529
+msgid "Sound"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:530
+msgid "Search"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:531
+msgid "Lightbulb"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:532
+msgid "Tv"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:533
+msgid "Desktop"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:534
+msgid "Mobile"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:535
+msgid "Cd"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:536
+msgid "Inbox"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:537
+msgid "Globe"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:538
+msgid "Cloud"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:539
+msgid "Paper Plane"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:540
+msgid "Fire"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:541
+msgid "Graduation Cap"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:542
+msgid "Megaphone"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:543
+msgid "Database"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:544
+msgid "Key"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:545
+msgid "Beaker"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:546
+msgid "Truck"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:547
+msgid "Money"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:548
+msgid "Food"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:549
+msgid "Shop"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:550
+msgid "Diamond"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:551
+msgid "T-Shirt"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:552
+msgid "Wallet"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:553
+msgid "Ok"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:554
+msgid "Clock"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:556
+msgid "Select icon."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:563
+msgid "Data"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:581
+#: core/shortcodes/shortcodes-mapper.php:674
+msgid "Link"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:588
+msgid "Where to put link?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:591
+msgid "To icon"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:592
+msgid "To data"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:593
+msgid "To description"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:602
+#: core/shortcodes/shortcodes-mapper.php:684
+msgid "Open this link in another tab?"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:637
+msgid "You sould create some services before you can use this widget"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:650
+msgid "Service Title"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:652
+msgid "Leave it blank to use your predefined service title."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:656
+msgid "Select Servise"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:658
+msgid "You sould create some services before you can use this widget."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:663
+msgid "Servise Layout"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:666
+msgid "Block"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:667
+msgid "List"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:719
+msgid "You sould create some team members before you can use this widget"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:732
+msgid "Team Member name"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:734
+msgid "Leave it blank to use your predefined name."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:738
+msgid "Select Team Member"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:740
+msgid "You sould create some team members before you can use this widget."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:759
+msgid "Get In Touch"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:768
+msgid "Adress"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:771
+msgid "Ex: \"Address: 455 Martinson, Los Angeles\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:777
+msgid "Phone"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:780
+msgid "Ex: \"Phone: 8 (043) 567 - 89 - 30\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:786
+msgid "Fax"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:789
+msgid "Ex: \"Fax: 8 (057) 149 - 24 - 64\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:795
+msgid "Skype"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:798
+msgid "Ex: \"Skype: companyname\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:807
+msgid ""
+"Your e-mail will be published with \"antispambot\" protection.<br/>Ex: "
+"\"E-mail: support@email.com\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:813
+msgid "Weekend"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:816
+msgid "Ex: \"Weekend: from 9 am to 6 pm\""
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:834
+msgid "Displays all your testimonials."
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:839
+msgid "Layout mode"
+msgstr ""
+
+#: core/shortcodes/shortcodes-mapper.php:840
+msgid "Testimonials layout template."
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_button.php:10
+msgid "Text on the button"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_item.php:9
+msgid "Item"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_posts_slider.php:152
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:181
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:202
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:203
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:219
+msgid "Permalink to %s"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_posts_slider.php:192
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:327
+msgid "Nothing found."
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_tab.php:9
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_tabs.php:44
+msgid "Previous tab"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_tabs.php:44
+msgid "Next tab"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_teaser_grid.php:181
+msgid "Read more"
+msgstr ""
+
+#: core/shortcodes/vc_templates/vc_tweetmeme.php:9
+msgid "Tweet"
+msgstr ""
+
+#: core/widgets/sidebars.php:26
+msgid "Blog Sidebar"
+msgstr ""
+
+#: core/widgets/sidebars.php:27
+msgid "This widgets area is used for blog pages by default."
+msgstr ""
+
+#: core/widgets/sidebars.php:39
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: core/widgets/sidebars.php:40
+msgid "This widgets area is used for woocommerce shop by default."
+msgstr ""
+
+#: core/widgets/sidebars.php:53
+msgid "Footer 1"
+msgstr ""
+
+#: core/widgets/sidebars.php:54 core/widgets/sidebars.php:66
+#: core/widgets/sidebars.php:78 core/widgets/sidebars.php:92
+msgid "This widgets area is used in footer."
+msgstr ""
+
+#: core/widgets/sidebars.php:65
+msgid "Footer 2"
+msgstr ""
+
+#: core/widgets/sidebars.php:77
+msgid "Footer 3"
+msgstr ""
+
+#: core/widgets/sidebars.php:91
+msgid "Footer 4"
+msgstr ""
+
+#: core/widgets/sidebars.php:117
+msgid "This is your custom sidebar."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:10
+msgid "Contact Form Widget."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:20
+msgid "Sending..."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:21
+msgid "Fill all form fields please"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:47
+msgid "Subject"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:51
+msgid "Oh snap! Name field can't stay empty."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:52
+msgid "Oh snap! There was a mistake when writing a e-mail."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:53
+msgid "Oh snap! Subject field can't stay empty."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:59
+#: core/widgets/widget-contact-form.php:60
+msgid "Oh snap! Attachment field can't stay empty."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:61
+msgid "Oh snap! Wrong type of attachment."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:66
+msgid "Message"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:67
+msgid "Oh snap! This field can't stay empty."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:68
+msgid "Error. You message wasn't sent. Something wrong happen."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:69
+msgid "Well done! You message is successfully sent."
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:71
+msgid "Send message"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:102
+msgid "Email will be sent on"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:103
+msgid "Change"
+msgstr ""
+
+#: core/widgets/widget-contact-form.php:106
+msgid "Add attachment field?"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:60
+msgid "Flickr Photos"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:69
+msgid "Title:"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:72
+msgid "Flickr ID:"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:75
+msgid "To get your Flickr ID use"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:77
+msgid "# of Images to Show:"
+msgstr ""
+
+#: core/widgets/widget-get-in-touch.php:8
+msgid "This widget displays your contact information."
+msgstr ""
+
+#: core/widgets/widget-get-in-touch.php:63
+msgid "Get in Touch"
+msgstr ""
+
+#: core/widgets/widget-socials.php:12
+msgid "Social Buttons Widget."
+msgstr ""
+
+#: core/widgets/widget-twitter.php:10
+msgid "Show recent tweets."
+msgstr ""
+
+#: core/widgets/widget-twitter.php:60
+msgid "There's no Tweets in your feed..."
+msgstr ""
+
+#: core/widgets/widget-twitter.php:70
+msgid "Authentication failed! Please check your Twitter app data."
+msgstr ""
+
+#: core/widgets/widget-twitter.php:72
+msgid "There's no tweets there in account"
+msgstr ""
+
+#: core/widgets/widget-twitter.php:105
+msgid "Twitter Username:"
+msgstr ""
+
+#: core/widgets/widget-twitter.php:106
+msgid "Tweets to Show:"
+msgstr ""
+
+#: footer.php:21 footer.php:58
+msgid "Drop a widget on \"Footer Sidebar 1\" sidebar at Appearance > Widgets page."
+msgstr ""
+
+#: footer.php:30 footer.php:67
+msgid "Drop a widget on \"Footer Sidebar 2\" sidebar at Appearance > Widgets page."
+msgstr ""
+
+#: footer.php:39 footer.php:76
+msgid "Drop a widget on \"Footer Sidebar 3\" sidebar at Appearance > Widgets page."
+msgstr ""
+
+#: footer.php:48
+msgid "Drop a widget on \"Footer Sidebar 4\" sidebar at Appearance > Widgets page."
+msgstr ""
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "No comments"
+msgstr ""
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "1 comment"
+msgstr ""
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "% comments"
+msgstr ""
+
+#: format-audio.php:51 format-gallery.php:61 format-image.php:31
+#: format-link.php:51 format-quote.php:44 format-standard.php:31
+#: format-video.php:41 single-attachment.php:75
+msgid "Comments off"
+msgstr ""
+
+#: search.php:18
+msgid "Search results for"
+msgstr ""
+
+#: single-attachment.php:21
+msgid "Attachment"
+msgstr ""
+
+#: single-xenia_portfolio.php:77 tpl-portfolio-single-half.php:101
+#: tpl-portfolio-single-wide.php:96
+msgid "Date"
+msgstr ""
+
+#: single-xenia_portfolio.php:102 single-xenia_portfolio.php:104
+#: tpl-portfolio-single-half.php:126 tpl-portfolio-single-half.php:128
+#: tpl-portfolio-single-wide.php:121 tpl-portfolio-single-wide.php:123
+msgid "Client"
+msgstr ""
+
+#: single-xenia_portfolio.php:211 tpl-portfolio-single-half.php:235
+#: tpl-portfolio-single-wide.php:230
+msgid "Recent Works"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Xenia"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://xenia.phoenix-theme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful WordPress theme designed in a clean and minimalistic style. This "
+"theme can be used for any type of website, business, corporate, portfolio, "
+"products, marketing, etc. Xenia has been coded with love in PHP, HTML5, "
+"CSS3 and JavaScript. It is compatible with such premium plugins like "
+"WPBakery Visual Composer & Themepunch Slider Revolution, and it is supplied "
+"with them."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Phoenix Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/PhoenixTeam"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Visual Composer"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog classic fullwidth --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog classic sidebar --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog medium fullwidth --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog medium sidebar --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Home Industrial --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- 2cols Portfolio --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- 3cols Portfolio --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- 4cols Portfolio --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- Fullwidth Portfolio --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- Portfolio Single Half --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- Portfolio Single Wide --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog Single Post fullwidth --"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "-- tpl Blog Single Post sidebar --"
+msgstr ""
+
+#: comments.php:26
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:73
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: core/custom_posts/portfolio.php:74
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""

@@ -1,0 +1,67 @@
+a {color: #1DCE6C;}
+.hi-icon-effect .hi-icon {color: #1DCE6C;}
+ul.social-links li a:hover { color: #1DCE6C }
+.search-active i {color: #1DCE6C;}
+.menu li a:hover {color:#1DCE6C !important;  border-color:#1DCE6C;}
+.menu li.current a {color: #1DCE6C;}
+.menu li:hover a {color: #1DCE6C}
+.menu ul li ul {  border-top:1px solid #1DCE6C;}
+.menu ul li ul li a:hover { color:#1DCE6C !important}
+.center-line {background: #1DCE6C;}
+.hi-icon-effect .hi-icon:after {background: #1DCE6C;}
+.grid figcaption {background: #1DCE6C;}
+.first-letter {background: #1DCE6C;}
+.list-check li i {color: #1DCE6C;}
+.blog-icon i {color: #1DCE6C;}
+.view-fifth .mask {background: #1DCE6C;}
+.jcarousel-control-prev, .jcarousel-control-next {color: #1DCE6C;}
+.jcarousel-control-prev:hover, .jcarousel-control-next:hover {color: #1DCE6C;}
+.page-in-name span {color: #1DCE6C;}
+.page-in-bread a {color: #1DCE6C;}
+.progress-bar-info {background-color: #1DCE6C;}
+.soc-about li a:hover{color:#1DCE6C;}
+.fact-icon {color: #1DCE6C;}
+.serv-marg i {color: #1DCE6C;}
+.serv-icon i {color: #1DCE6C;}
+.plan.featured h3 {color: #1DCE6C;}
+.plan.featured .price {color: #1DCE6C;}
+.btn-price {background-color: #1DCE6C;border-color: #1DCE6C;}
+.btn-price:hover {background-color: #fff;border-color: #1DCE6C;color:#1DCE6C;}
+.oops {color: #1DCE6C;}
+.ac-container input:checked + label, .ac-container input:checked + label:hover {color: #1DCE6C;}
+.ac-container label:hover { background: #f9f9f9; color:#1DCE6C; }
+.cbp-l-filters-button .cbp-filter-item-active {background-color: #1DCE6C;border-color: #1DCE6C;}
+.cbp-l-filters-button .cbp-filter-counter:before {border-top: 4px solid #1DCE6C;}
+.cbp-l-filters-button .cbp-filter-counter {background-color: #1DCE6C;}
+.cbp-caption-zoom .cbp-caption-activeWrap {background-color: rgba(0,208,104,0.8);}
+.item-heart i {color: #1DCE6C;}
+.btn-item:hover {color: #1DCE6C;}
+.blog-category li i {color: #1DCE6C;}
+.tags-blog li a:hover {color: #1DCE6C;}
+.tweet_text a {color: #1DCE6C;}
+.cl-blog-type {color: #1DCE6C;}
+.cl-blog-name a:hover {color: #1DCE6C;}
+.cl-blog-read a:hover {color: #1DCE6C;}
+.pride_pg .current {color: #1DCE6C;border: 1px solid #1DCE6C;}
+.pride_pg a:hover {color: #1DCE6C;border:1px solid #1DCE6C;}
+.soc-blog li a:hover{color:#1DCE6C;}
+.comm_name {color: #1DCE6C;}
+.recentcomments a {color: #1DCE6C !important;}
+.shortcode_tab_item_title:hover {color: #1DCE6C;}
+.shortcode_tab_item_title.active {color: #1DCE6C;}
+.tooltip_s {color: #1DCE6C;}
+.index_4_prev:hover {border:1px solid #1DCE6C;}
+.index_4_next:hover {border:1px solid #1DCE6C;}
+.menu ul li.current-menu-item a, .menu ul li.current_page_item a {color: #1DCE6C;}
+.wpb_accordion_header.ui-accordion-header-active a {color: #1DCE6C !important;}
+.phoenix-team-progerssbar-outside .vc_single_bar.bar_turquoise .vc_bar {background-color: #1DCE6C !important;}
+.wpb_accordion_header.ui-state-hover a{color: #1DCE6C !important;}
+.widget ul li > a:before {color: #1DCE6C;}
+@media screen and (max-width: 991px) { 
+.menu-main-menu-container {  background: #1DCE6C;}
+.phoenix-menu-wrapper button {background: #1DCE6C;}
+.phoenix-menu-wrapper button:hover, .phoenix-menu-wrapper button.dl-active, .dl-menuwrapper ul { background: #1DCE6C }
+.menu ul li a {background: #1DCE6C;}
+.menu ul ul {background: #1DCE6C;}
+.menu ul li ul li a:hover {color:#fff; }
+.menu ul li.current-menu-item a, .menu ul li.current_page_item a {color: #fff;}}
